@@ -1,0 +1,51 @@
+GT	ChatGPT-3.5	ChatGPT-4	Gemini-1.5	LLAMA3-70B	LLAMA3-8B
+SideCopy	X	APT36	APT36 	Rattlesnake 	X
+MUSTANG PANDA	X	APT41	APT15	APT41	X
+MUSTANG PANDA	APT41	APT41	APT41 	APT41	APT41
+MUMMY SPIDER	X	Emotet	Emotet	Ursnif 	APT28
+Dark Caracal	APT41	Dark Caracal	AVE_MARIA	APT37 	X
+APT19  	APT41	Bronze President	APT41 	APT41	APT41
+APT19  	FIN7	TA505	Basta	Basta	Conti
+APT-C-36	X	APT-C-36	Indrik Spider	Blind Eagle	Falcon
+APT-C-36	X	APT-C-36	Indrik Spider	Agescio	Aquatic Panda
+Turla  	APT28	APT29	Turla 	APT29	UNC4210 
+Turla  	APT29	APT29	APT29 	APT29	X
+APT28  	APT28	APT28	Kimsuky 	APT29	APT28 
+APT28  	APT28	Sandworm	Gamaredon	Gamaredon	X
+UNC2452  	APT29	APT29	Nobelium	APT29	X
+UNC2452  	X	Wizard Spider	Quantum/MountLocker	Vice Society	X
+CHRYSENE  	APT34	OilRig	MuddyWater	MuddyWater	X
+CHRYSENE  	APT34	MuddyWater	APT33	MuddyWater	APT40
+APT41  	APT32	APT29	APT3	APT41	X
+lazarus	Andariel	Andariel	Kimsuky	Andariel	Andariel
+Kimsuky  	X	Lazarus	Kimsuky	Lazarus 	RGB
+Kimsuky  	X	Lazarus	Kimsuky 	Lazarus	Lazarus
+APT36	SideCopy	Transparent Tribe	APT36 	APT36	SideCopy
+APT35	APT35	APT35	TA453 	APT35	APT35
+MuddyWater  	APT35	APT35	MuddyWater 	APT35	DEV-0270
+MuddyWater  	APT33	APT34	APT33 	MuddyWater	X
+CharmingCypress	APT35	APT34	APT34 	APT35	X
+Mint Sandstorm	PHOSPHORUS	PHOSPHORUS	PHOSPHORUS	APT35	PHOSPHORUS
+APT31	APT41	APT31	APT41 	APT41	APT41
+Gamaredon	X	APT28	Gamaredon 	Gamaredon	X
+Gamaredon	Gamaredon	Gamaredon	Gamaredon	Gamaredon	Gamaredon 
+Sharp Panda	X	APT40	APT41 	APT31 	X
+Bitter APT 	X	Sidewinder	APT-C-35 	SideWinder	X
+Confucius	X	APT36	APT-C-35 	Confucius	X
+Dragonfly	Dragonfly	Energetic Bear	Dragonfly	Dragonfly	Dragonfly
+Andariel	Kimsuky	Kimsuky	Kimsuky	Kimsuky	Lazarus
+COLDRIVER	APT29	APT28	APT29 	APT29	X
+Bahamut	X	Bahamut	Dark Caracal	Bahamut	X
+APT37	X	Kimsuky	Kimsuky	Lazarus	StarCruft
+APT33	APT33	APT33	APT33 	APT33	HOLMIUM
+APT29	APT29	APT29	APT29 	APT29	APT28 
+APT29	APT29	Cozy Bear	APT29 	APT29	Cozy Bear
+APT29	APT29	APT29	APT29	APT29	SVR
+Diamond Sleet	Lazarus	Lazarus	Kimsuky	Lazarus	X
+Lazarus	Lazarus	Lazarus	Lazarus 	Lazarus	Lazarus 
+Lazarus	Lazarus	Lazarus	Kimsuky	Lazarus	X
+Lazarus	Lazarus	Lazarus	Kimsuky	Lazarus	X
+Lazarus	Lazarus	Lazarus	Lazarus 	Lazarus	Lazarus 
+OilRig	APT34	APT34	MuddyWater	MuddyWater	X
+MuddyWater	APT34	APT34	APT34 	MuddyWater	APT34
+Turla	Turla	Turla	Turla 	Turla	Turla
