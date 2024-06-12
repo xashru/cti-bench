@@ -1,0 +1,8304 @@
+#####1#####
+B
+
+#####2#####
+B) File
+
+#####3#####
+C
+
+#####4#####
+B
+
+#####5#####
+C
+
+#####6#####
+B
+
+#####7#####
+D
+
+#####8#####
+A) find / -perm +4000 2>/dev/null
+
+#####9#####
+B
+
+#####10#####
+D
+
+#####11#####
+D
+
+#####12#####
+D) Rubeus
+
+#####13#####
+C) John the Ripper
+
+#####14#####
+B
+
+#####15#####
+C
+
+#####16#####
+B
+
+#####17#####
+B
+
+#####18#####
+B
+
+#####19#####
+B
+
+#####20#####
+D
+
+#####21#####
+C) CrackMapExec
+
+#####22#####
+A) Initial Access
+
+#####23#####
+B
+
+#####24#####
+The correct answer is:
+
+B) T1059
+
+#####25#####
+The correct answer is:
+
+C) Fox Kitten
+
+#####26#####
+B) Account Use Policies
+
+#####27#####
+A) Form-grabbing
+
+#####28#####
+C) SeDebugPrivilege
+
+#####29#####
+B
+
+#####30#####
+A) Network Segmentation
+
+#####31#####
+A) Form-grabbing
+
+#####32#####
+B) Chimera
+
+#####33#####
+A) T1217 - Browser Information Discovery
+
+#####34#####
+B
+
+#####35#####
+C) Browsing History
+
+#####36#####
+D
+
+#####37#####
+B) Botnet reconfiguration
+
+#####38#####
+B
+
+#####39#####
+B
+
+#####40#####
+B
+
+#####41#####
+The correct answer is: C
+
+#####42#####
+D
+
+#####43#####
+C) Boot or Logon Initialization Scripts: RC Scripts
+
+#####44#####
+B
+
+#####45#####
+A) Employ system cryptographic signatures
+
+#####46#####
+C
+
+#####47#####
+C) DS0022: File
+
+#####48#####
+B
+
+#####49#####
+B
+
+#####50#####
+D
+
+#####51#####
+B
+
+#####52#####
+The correct answer is:
+
+A) Rocke
+
+#####53#####
+C
+
+#####54#####
+D
+
+#####55#####
+C) T1535: Unused/Unsupported Cloud Regions
+
+#####56#####
+The correct answer is:
+
+D) Limit account access to cloud management systems. 
+
+**Answer:** D
+
+#####57#####
+B) Persistence
+
+#####58#####
+B
+
+#####59#####
+C
+
+#####60#####
+C) Using compromised service principals
+
+#####61#####
+The correct answer is:
+
+A) Application Developer Guidance (M1013)
+
+#####62#####
+C
+
+#####63#####
+B
+
+#####64#####
+B
+
+#####65#####
+B
+
+#####66#####
+D
+
+#####67#####
+C) Privileged Account Management
+
+#####68#####
+A) Mimikatz
+
+#####69#####
+B
+
+#####70#####
+C
+
+#####71#####
+B
+
+#####72#####
+C
+
+#####73#####
+B
+
+#####74#####
+A) Implementing multi-factor authentication (MFA)
+
+#####75#####
+B
+
+#####76#####
+B
+
+#####77#####
+B
+
+#####78#####
+B
+
+#####79#####
+B) Bazar
+
+#####80#####
+B) .scr, .exe, .pif, .cpl
+
+#####81#####
+The correct answer is:
+
+A) Bazar
+
+#####82#####
+B
+
+#####83#####
+A) Sandworm Team
+
+#####84#####
+A) Execution Prevention
+
+#####85#####
+The correct answer is:
+
+C) Dridex
+
+#####86#####
+B) Process
+
+#####87#####
+B
+
+#####88#####
+B
+
+#####89#####
+C
+
+#####90#####
+C
+
+#####91#####
+B
+
+#####92#####
+B) Mimikatz
+
+#####93#####
+A)
+
+#####94#####
+A) Access Token Manipulation: SID-History Injection
+
+**Answer:** A
+
+#####95#####
+B
+
+#####96#####
+B
+
+#####97#####
+A) T1078.001
+
+#####98#####
+B
+
+#####99#####
+B) APT5
+
+#####100#####
+D
+
+#####101#####
+A) Event ID 4624
+
+#####102#####
+B
+
+#####103#####
+A) APT29
+
+#####104#####
+B
+
+#####105#####
+A
+
+#####106#####
+A) Logon Session
+
+#####107#####
+B) GREASE
+
+#####108#####
+A) FruitFly and Proton
+
+#####109#####
+B
+
+#####110#####
+A) InvisiMole
+
+#####111#####
+B
+
+#####112#####
+B
+
+#####113#####
+A) Agent Tesla
+
+#####114#####
+B) Encrypting the payload using RSA
+
+#####115#####
+B) Black Basta
+
+#####116#####
+C
+
+#####117#####
+B
+
+#####118#####
+A) Network traffic monitoring
+
+#####119#####
+A) T1497.002
+
+#####120#####
+C) Network traffic
+
+#####121#####
+C
+
+#####122#####
+B
+
+#####123#####
+D
+
+#####124#####
+B
+
+#####125#####
+The correct answer is:
+
+A) Network traffic analysis
+
+B
+
+#####126#####
+B
+
+#####127#####
+B
+
+#####128#####
+D
+
+#####129#####
+B) BendyBear
+
+#####130#####
+B
+
+#####131#####
+B
+
+#####132#####
+B
+
+#####133#####
+B
+
+#####134#####
+B
+
+#####135#####
+A) Active Directory Object Modification
+
+#####136#####
+B
+
+#####137#####
+The correct answer is:
+
+A) Get-ADUser
+
+#####138#####
+B
+
+#####139#####
+C) Inspecting data packet sizes
+
+D
+
+#####140#####
+B
+
+#####141#####
+B. BRONZE BUTLER
+
+#####142#####
+B. Network Intrusion Prevention
+
+#####143#####
+B. A
+
+#####144#####
+B
+
+#####145#####
+B) Command and Control
+
+#####146#####
+A) Using DNS tunneling
+
+#####147#####
+B
+
+#####148#####
+The most effective mitigation against Technique ID T1102.002 would be:
+
+**Option A) Implementing Endpoint Detection and Response tools**
+
+**Answer: A**
+
+#####149#####
+B) BLUELIGHT
+
+#####150#####
+C
+
+#####151#####
+B
+
+#####152#####
+B
+
+#####153#####
+C
+
+#####154#####
+B
+
+#####155#####
+B) B) wbemtool.exe
+
+#####156#####
+B) B) M1038 - Execution Prevention
+
+#####157#####
+B) B) APT29
+
+#####158#####
+A) BRONZE BUTLER
+
+#####159#####
+B) Miner-C
+
+#####160#####
+**Answer:**
+
+B) Execution prevention
+
+#####161#####
+C)
+
+#####162#####
+A) `gettimeofday()`
+
+
+#####163#####
+A) Persistence
+
+#####164#####
+The correct answer is:
+
+A) AvosLocker
+
+#####165#####
+B
+
+#####166#####
+B
+
+#####167#####
+B
+
+#####168#####
+B) KillDisk
+
+#####169#####
+The MITRE ATT&CK technique T1529 applies to the Mobile platform because it relies on specific OS features.
+
+**Answer:** B
+
+#####170#####
+The correct answer is:
+
+C) Account Discovery
+
+**Answer:** C
+
+#####171#####
+B
+
+#####172#####
+B
+
+#####173#####
+B
+
+#####174#####
+B
+
+#####175#####
+B
+
+#####176#####
+C) TeamTNT
+
+#####177#####
+B
+
+#####178#####
+B) B. admin@338
+
+#####179#####
+B
+
+#####180#####
+B.
+
+#####181#####
+The correct answer is:
+
+C) C. Aquatic Panda
+
+#####182#####
+B. B. To shape follow-on behaviors and decide on further actions
+
+B
+
+#####183#####
+C)
+
+#####184#####
+B
+
+#####185#####
+A) who
+
+#####186#####
+B
+
+#####187#####
+C)
+
+#####188#####
+D
+
+#####189#####
+The correct answer is:
+
+B) APT41
+
+#####190#####
+A) Using Application Control to block script execution
+
+**Answer:** A
+
+#####191#####
+B
+
+#####192#####
+A) Command, Network Traffic, DNS logs
+
+**Answer:** A
+
+#####193#####
+The best option is:
+
+A) Persistence
+
+**Answer:** A
+
+#####194#####
+D
+
+#####195#####
+B
+
+#####196#####
+The correct answer is:
+
+B) APT1
+
+#####197#####
+B) A
+
+#####198#####
+B
+
+#####199#####
+B
+
+#####200#####
+B
+
+#####201#####
+B
+
+#####202#####
+A) netsh wlan show profiles
+
+#####203#####
+C
+
+#####204#####
+A) It can collect names of all Wi-Fi networks a device has previously connected to
+
+**Answer:** A
+
+#####205#####
+C
+
+#####206#####
+B
+
+#####207#####
+B) APT12
+
+#####208#####
+C
+
+#####209#####
+A) Restrict Unnecessary Privileges
+
+#####210#####
+A) File Hashing
+
+#####211#####
+The correct answer is:
+
+A) Ke3chang
+
+#####212#####
+A) HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nls\Language
+
+#####213#####
+B
+
+#####214#####
+C) It logs the event and continues
+
+#####215#####
+B) Windows Registry
+
+#####216#####
+B) Germanic
+
+#####217#####
+The correct answer is:
+
+D) GetProcessorCount
+
+#####218#####
+C) Instance and VM information
+
+#####219#####
+C) show version
+
+#####220#####
+B
+
+#####221#####
+B
+
+#####222#####
+B
+
+#####223#####
+D
+
+#####224#####
+The best option among the provided choices is:
+
+A) Active Directory Configuration (M1015) 
+
+Therefore, the answer is: A
+
+#####225#####
+B
+
+#####226#####
+A) Process Injection
+
+#####227#####
+The best option among the provided choices is:
+
+**Option A) Password Policies (M1027)**
+
+**Answer:** A
+
+#####228#####
+B
+
+#####229#####
+B
+
+#####230#####
+B
+
+#####231#####
+B
+
+#####232#####
+B
+
+#####233#####
+A) M1057 | Data Loss Prevention
+
+#####234#####
+B
+
+#####235#####
+The correct answer is:
+
+A) M1057 | Data Loss Prevention
+
+**Answer:** A
+
+#####236#####
+A) SharingInvitationCreated
+
+#####237#####
+B
+
+#####238#####
+The correct answer is:
+
+C) DS0017 | Command Execution
+
+D
+
+#####239#####
+B
+
+#####240#####
+B
+
+#####241#####
+B) Ryuk
+
+#####242#####
+B
+
+#####243#####
+B
+
+#####244#####
+B
+
+#####245#####
+B
+
+#####246#####
+A) Enforce binary and application integrity with digital signature verification
+
+**Answer:** A
+
+#####247#####
+C
+
+#####248#####
+The correct answer is:
+
+D) T1218.014 System Binary Proxy Execution: MMC
+
+#####249#####
+A) Use application control to define allowed file types for execution
+
+**Answer:** A
+
+#####250#####
+D
+
+#####251#####
+B
+
+#####252#####
+C
+
+#####253#####
+B
+
+#####254#####
+The primary MITRE ATT&CK tactic corresponding to the ID T1087.002 is **A) Discovery**.
+
+**Answer:** A
+
+#####255#####
+D
+
+#####256#####
+A) ldapsearch
+
+#####257#####
+B) APT41
+
+#####258#####
+C
+
+#####259#####
+B) M1031
+
+#####260#####
+A) To load and verify shell extensions before they are used by Windows Explorer or the Windows Shell
+
+**Answer:** A
+
+#####261#####
+B
+
+#####262#####
+A) Process monitoring and network traffic analysis
+
+#####263#####
+B) Execution
+
+#####264#####
+A) Control_RunDLL
+
+#####265#####
+The correct answer is:
+
+C) SolarWinds Compromise
+
+D
+
+#####266#####
+B
+
+#####267#####
+B
+
+#####268#####
+A) File - File Metadata
+
+**Answer:** A
+
+#####269#####
+A) T1218.001
+
+#####270#####
+B
+
+#####271#####
+B) Operation Dream Job
+
+#####272#####
+A) Module Load
+
+#####273#####
+B
+
+#####274#####
+A) register.sct
+
+#####275#####
+A) M1042 | Disable or Remove Feature or Program
+
+#####276#####
+B) Yipconfig
+
+#####277#####
+B) Cobalt Group
+
+#####278#####
+C
+
+#####279#####
+The correct answer is:
+
+B) Chaes
+
+#####280#####
+The correct answer is: C
+
+#####281#####
+D) Process Creation
+
+#####282#####
+A) When the AlwaysInstallElevated policy is disabled
+
+**Answer:** A
+
+#####283#####
+The correct answer is:
+
+B) IcedID
+
+#####284#####
+B
+
+#####285#####
+B) APT32
+
+#####286#####
+B
+
+#####287#####
+C
+
+#####288#####
+C) JavaScript
+
+#####289#####
+B) DS0022
+
+#####290#####
+B
+
+#####291#####
+A) M1042: Disable or Remove Feature or Program
+
+#####292#####
+A) DS0017: Command, Command Execution
+
+#####293#####
+D
+
+#####294#####
+C
+
+#####295#####
+A) Enable User Account Control
+
+#####296#####
+B) Event ID 4688
+
+#####297#####
+The correct answer is:
+
+D) T1218.002 - System Binary Proxy Execution: Control Panel
+
+#####298#####
+C
+
+#####299#####
+C
+
+#####300#####
+B
+
+#####301#####
+D
+
+#####302#####
+A) InvisiMole (G1003)
+
+#####303#####
+B
+
+#####304#####
+D
+
+#####305#####
+The correct answer is: C) Get-GlobalAddressList
+
+#####306#####
+B) Defense Evasion
+
+#####307#####
+B
+
+#####308#####
+A) Network Traffic Analysis
+
+#####309#####
+C
+
+#####310#####
+The correct answer is:
+
+A) T1219
+
+#####311#####
+D
+
+#####312#####
+B
+
+#####313#####
+The correct answer is:
+
+B) M1038
+
+#####314#####
+A) Development tools
+
+#####315#####
+C) M1046: Boot Integrity
+
+#####316#####
+B) DS0022: File
+
+#####317#####
+B
+
+#####318#####
+B
+
+#####319#####
+B
+
+#####320#####
+B) Dragonfly
+
+#####321#####
+B
+
+#####322#####
+D
+
+#####323#####
+C
+
+#####324#####
+B
+
+#####325#####
+C
+
+#####326#####
+D
+
+#####327#####
+A) csrutil disable
+
+#####328#####
+B
+
+#####329#####
+B) BlackEnergy
+
+#####330#####
+A) M1046 Boot Integrity
+
+#####331#####
+C
+
+#####332#####
+A) Embedding malicious macros in MS Office files
+
+**Answer:** A
+
+#####333#####
+A)
+
+#####334#####
+C
+
+#####335#####
+B
+
+#####336#####
+C
+
+#####337#####
+B
+
+#####338#####
+C
+
+#####339#####
+A) HTTP Public Key Pinning
+
+#####340#####
+B
+
+#####341#####
+B
+
+#####342#####
+The correct answer is:
+
+A) Execution Prevention
+
+**Answer:** A
+
+#####343#####
+A) Event ID 4625 with indications of failed login attempts
+
+**Answer:** A
+
+#####344#####
+C
+
+#####345#####
+The correct answer is:
+
+C) Get-MsolRoleMember
+
+#####346#####
+C
+
+#####347#####
+B) Windows and macOS
+
+#####348#####
+B) Bandook
+
+#####349#####
+C) Defense Evasion
+
+#####350#####
+B) G0021 (Molerats)
+
+#####351#####
+C) File metadata
+
+#####352#####
+B) AppleJeus
+
+#####353#####
+B
+
+#####354#####
+B
+
+#####355#####
+B
+
+#####356#####
+C
+
+#####357#####
+C) OSX/Shlayer
+
+#####358#####
+B
+
+#####359#####
+A) Subvert Trust Controls
+
+#####360#####
+B
+
+#####361#####
+C) Process Creation
+
+#####362#####
+B
+
+#####363#####
+B) Privileged Account Management
+
+#####364#####
+A) File Metadata analysis
+
+#####365#####
+B) Credential Access
+
+#####366#####
+A
+
+#####367#####
+B
+
+#####368#####
+C
+
+#####369#####
+The correct answer is: D
+
+#####370#####
+C
+
+#####371#####
+A) M1026 - Privileged Account Management
+
+#####372#####
+B
+
+#####373#####
+B
+
+#####374#####
+B
+
+#####375#####
+C
+
+#####376#####
+A
+
+#####377#####
+B) File Creation
+
+#####378#####
+The best option is D) Windows Registry
+
+D
+
+#####379#####
+B) SpeakUp
+
+#####380#####
+C) Persistence
+
+#####381#####
+A) Audit
+
+#####382#####
+A) Process
+
+#####383#####
+B
+
+#####384#####
+C) Sandworm Team
+
+#####385#####
+The correct answer is:
+
+D) Dragonfly
+
+#####386#####
+A) LSADUMP::ChangeNTLM and LSADUMP::SetNTLM
+
+#####387#####
+D
+
+#####388#####
+C
+
+#####389#####
+B
+
+#####390#####
+B
+
+#####391#####
+B
+
+#####392#####
+B
+
+#####393#####
+B
+
+#####394#####
+The correct answer is:
+
+D) T1546.011 - Application Shimming
+
+#####395#####
+D) sdbinst.exe
+
+#####396#####
+B
+
+#####397#####
+C
+
+#####398#####
+B) DragonFly
+
+#####399#####
+A) HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows
+
+#####400#####
+C
+
+#####401#####
+B
+
+#####402#####
+The correct answer is:
+
+A) T1546.006
+
+#####403#####
+B
+
+#####404#####
+A) RegCreateKeyEx
+
+#####405#####
+B) Module
+
+#####406#####
+A) AppLocker
+
+#####407#####
+A) T1546.008 - Event Triggered Execution: Netsh Helper DLL
+
+#####408#####
+C
+
+#####409#####
+D
+
+#####410#####
+C) DS0009: Process
+
+#####411#####
+B
+
+#####412#####
+B
+
+#####413#####
+B) Request Monitoring
+
+#####414#####
+B
+
+#####415#####
+B
+
+#####416#####
+A) ~/.bash_logout
+
+#####417#####
+D) ~/.zshrc
+
+#####418#####
+B
+
+#####419#####
+C) DS0022: File
+
+#####420#####
+C
+
+#####421#####
+D
+
+#####422#####
+C
+
+#####423#####
+D
+
+#####424#####
+A
+
+#####425#####
+The correct answer is:
+
+B) G0096 - APT41
+
+#####426#####
+A) regedit.exe
+
+#####427#####
+C) S0260 - InvisiMole
+
+#####428#####
+B
+
+#####429#####
+B
+
+#####430#####
+B
+
+#####431#####
+B
+
+#####432#####
+C) ScreenSaverSecure
+
+#####433#####
+A) HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts
+
+#####434#####
+The specific technique that SILENTTRINITY utilizes as part of its UAC bypass process according to T1546.001 for the MITRE ATT&CK Enterprise platform is:
+
+A) Image Hijack of an .msc file extension
+
+**Answer: A**
+
+#####435#####
+D
+
+#####436#####
+B
+
+#####437#####
+The correct answer is:
+
+A) Hardware Configuration
+
+B
+
+#####438#####
+A) ROKRAT
+
+#####439#####
+B
+
+#####440#####
+B
+
+#####441#####
+The correct answer is:
+
+D) Involves target-specific values for decryption and execution
+
+#####442#####
+D
+
+#####443#####
+B
+
+#####444#####
+D
+
+#####445#####
+B) FTP
+
+#####446#####
+B) Filter Network Traffic
+
+#####447#####
+D
+
+#####448#####
+A) When they want to masquerade their communication as normal HTTPS traffic
+
+**Answer:** A
+
+#####449#####
+A) M1057 - Data Loss Prevention
+
+**Answer:** A
+
+#####450#####
+B
+
+#####451#####
+C
+
+#####452#####
+B
+
+#####453#####
+C
+
+#####454#####
+B) Tunneling Protocol
+
+#####455#####
+A) BLINDINGCAN
+
+#####456#####
+C) Lazarus Group
+
+#####457#####
+B) Data Loss Prevention (DLP)
+
+#####458#####
+C
+
+#####459#####
+B
+
+#####460#####
+B
+
+#####461#####
+B
+
+#####462#####
+A) S0092 (Agent.btz)
+
+#####463#####
+C
+
+#####464#####
+B
+
+#####465#####
+A) HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\load
+
+#####466#####
+B
+
+#####467#####
+B
+
+#####468#####
+B
+
+#####469#####
+D
+
+#####470#####
+C) Monitor and analyze network traffic content
+
+#####471#####
+The correct answer is: D
+
+#####472#####
+D
+
+#####473#####
+B
+
+#####474#####
+A) Using Rclone with the command rclone.exe copy --max-age 2y "\SERVER\Shares" Mega:DATA
+
+B
+
+#####475#####
+B
+
+#####476#####
+D
+
+#####477#####
+The best option to prevent unauthorized use of external services for data exfiltration according to MITRE ATT&CK T1567.001 is:
+
+**Option A) Implement multi-factor authentication**
+
+Therefore, the answer is: A
+
+#####478#####
+C) Network Traffic Content
+
+#####479#####
+C
+
+#####480#####
+A) Application misconfigurations
+
+#####481#####
+B) Network Segmentation
+
+#####482#####
+B) CVE-2020-0688
+
+#####483#####
+D
+
+#####484#####
+A) Blue Mockingbird
+
+#####485#####
+A) Application Isolation and Sandboxing
+
+#####486#####
+B
+
+#####487#####
+A) Drive-by Compromise
+
+#####488#####
+A) Application Whitelisting
+
+#####489#####
+B
+
+#####490#####
+B
+
+#####491#####
+A
+
+#####492#####
+B
+
+#####493#####
+B
+
+#####494#####
+C
+
+#####495#####
+B
+
+#####496#####
+D
+
+#####497#####
+C
+
+#####498#####
+B
+
+#####499#####
+B) Turla
+
+#####500#####
+C) Exploit Protection
+
+#####501#####
+B
+
+#####502#####
+B
+
+#####503#####
+C) Update Software
+
+#####504#####
+A) T1210: Network Service Scanning
+
+#####505#####
+B
+
+#####506#####
+B) Network Devices
+
+#####507#####
+B) CVE-2017-0144
+
+#####508#####
+C
+
+#####509#####
+B
+
+#####510#####
+The correct answer is:
+
+B) Leviathan
+
+**Answer:** B
+
+#####511#####
+The correct answer is:
+
+A) ProLock
+
+D
+
+#####512#####
+A) Operating System Configuration
+
+#####513#####
+B
+
+#####514#####
+B
+
+#####515#####
+The correct answer is: A) External Remote Services (T1133)
+
+#####516#####
+B
+
+#####517#####
+B
+
+#####518#####
+The correct answer is:
+
+C) WinRM
+
+#####519#####
+C
+
+#####520#####
+B
+
+#####521#####
+B
+
+#####522#####
+B
+
+#####523#####
+The correct answer is:
+
+A
+
+#####524#####
+B
+
+#####525#####
+C
+
+#####526#####
+B
+
+#####527#####
+B) T1132 - Data Encoding
+
+#####528#####
+B
+
+#####529#####
+B) M1050 - Secure Configurations
+
+#####530#####
+The correct answer is: B
+
+#####531#####
+A) RansomEXX
+
+#####532#####
+B
+
+#####533#####
+D
+
+#####534#####
+B
+
+#####535#####
+B
+
+#####536#####
+D
+
+#####537#####
+C
+
+#####538#####
+A) Enumerating and downloading files from AWS S3 buckets
+
+**Answer:** A
+
+#####539#####
+B
+
+#####540#####
+B
+
+#####541#####
+B
+
+#####542#####
+B) M1018
+
+#####543#####
+B
+
+#####544#####
+C
+
+#####545#####
+B) Exfiltration
+
+#####546#####
+A) PowerShell
+
+#####547#####
+The correct answer is:
+
+A) ACTION RAT (S1028)
+
+#####548#####
+B) Remote databases
+
+#####549#####
+B
+
+#####550#####
+D
+
+#####551#####
+B
+
+#####552#####
+B) File Access monitoring
+
+#####553#####
+C
+
+#####554#####
+A
+
+#####555#####
+B
+
+#####556#####
+C
+
+#####557#####
+B
+
+#####558#####
+B) AWS Traffic Mirroring
+
+#####559#####
+The correct answer is:
+
+B) M1060
+
+#####560#####
+B) DS0027
+
+#####561#####
+C
+
+#####562#####
+The correct answer is:
+
+C) Carbanak
+
+#####563#####
+A) File (DS0022)
+
+#####564#####
+C
+
+#####565#####
+A) Using Tor for encrypted communication
+
+#####566#####
+B
+
+#####567#####
+B) Kobalos (S0641)
+
+#####568#####
+B
+
+#####569#####
+B
+
+#####570#####
+B
+
+#####571#####
+B
+
+#####572#####
+The correct answer is:
+
+B) AppleSeed
+
+#####573#####
+B
+
+#####574#####
+B
+
+#####575#####
+B
+
+#####576#####
+B) T1060
+
+#####577#####
+A
+
+#####578#####
+The correct answer is:
+
+B) DarkGate (S1111)
+
+#####579#####
+B
+
+#####580#####
+A
+
+#####581#####
+C) Impact
+
+#####582#####
+C
+
+#####583#####
+The correct answer is:
+
+A) Execution of PowerShell scripts
+
+**Answer:** A
+
+#####584#####
+B
+
+#####585#####
+B
+
+#####586#####
+C) Certutil
+
+#####587#####
+D
+
+#####588#####
+B
+
+#####589#####
+C
+
+#####590#####
+B
+
+#####591#####
+D
+
+#####592#####
+B
+
+#####593#####
+C
+
+#####594#####
+C
+
+#####595#####
+B
+
+#####596#####
+B
+
+#####597#####
+C
+
+#####598#####
+C
+
+#####599#####
+B
+
+#####600#####
+B
+
+#####601#####
+B) Collection
+
+#####602#####
+B
+
+#####603#####
+The correct answer is:
+
+A) Attor (S0438)
+
+#####604#####
+A
+
+#####605#####
+The correct answer is:
+
+B) Empire
+
+#####606#####
+A) vssadmin
+
+#####607#####
+C
+
+#####608#####
+A) Executable Metadata
+
+#####609#####
+A)
+
+#####610#####
+B
+
+#####611#####
+A) Network Traffic Logs
+
+#####612#####
+B
+
+#####613#####
+B
+
+#####614#####
+D
+
+#####615#####
+B
+
+#####616#####
+B
+
+#####617#####
+B
+
+#####618#####
+A) T1189: Drive-by Compromise
+
+#####619#####
+B
+
+#####620#####
+B
+
+#####621#####
+B
+
+#####622#####
+A) forbes.com
+
+#####623#####
+The correct answer is:
+
+C) G0067: APT37
+
+C
+
+#####624#####
+B
+
+#####625#####
+B
+
+#####626#####
+D
+
+#####627#####
+B
+
+#####628#####
+B) Initial Access
+
+#####629#####
+C) Sandworm Team
+
+#####630#####
+C
+
+#####631#####
+B) Dragonfly
+
+#####632#####
+A) Sandworm Team
+
+#####633#####
+C
+
+#####634#####
+B
+
+#####635#####
+A) Detailed traffic logs analysis
+
+#####636#####
+C
+
+#####637#####
+A) Turla
+
+#####638#####
+B
+
+#####639#####
+C
+
+#####640#####
+A
+
+#####641#####
+B) G0094 | Kimsuky
+
+#####642#####
+A) Defense Evasion
+
+#####643#####
+C
+
+#####644#####
+A) APT29
+
+#####645#####
+A) Implement DNSSEC
+
+#####646#####
+C
+
+#####647#####
+C
+
+#####648#####
+A) kubectl exec
+
+#####649#####
+C) Privilege Escalation
+
+#####650#####
+B
+
+#####651#####
+B
+
+#####652#####
+The best option is:
+
+C) M1030 - Network Segmentation
+
+**Answer:** C
+
+#####653#####
+B
+
+#####654#####
+B
+
+#####655#####
+C) Microsoft Azure
+
+#####656#####
+C) LAPSUS$
+
+#####657#####
+D
+
+#####658#####
+B
+
+#####659#####
+A) 2016 Ukraine Electric Power Attack
+
+#####660#####
+D
+
+#####661#####
+D
+
+#####662#####
+B
+
+#####663#####
+B) APT29
+
+#####664#####
+D
+
+#####665#####
+B
+
+#####666#####
+A) dscl -create
+
+#####667#####
+The correct answer is:
+
+B) Create Account: Local Account
+
+B
+
+#####668#####
+B) A
+
+#####669#####
+C
+
+#####670#####
+B) Kimsuky
+
+#####671#####
+C
+
+#####672#####
+C
+
+#####673#####
+B
+
+#####674#####
+B
+
+#####675#####
+A) Replacing the ImagePath registry value with a new backdoor binary
+
+**Answer:** A
+
+#####676#####
+The correct answer is:
+
+C) Carbon
+
+#####677#####
+B
+
+#####678#####
+C
+
+#####679#####
+A) Industroyer
+
+#####680#####
+B
+
+#####681#####
+B
+
+#####682#####
+B) Fysbis
+
+#####683#####
+C) File
+
+#####684#####
+A) Persistence
+
+#####685#####
+The correct answer is:
+
+C) T1543.002
+
+#####686#####
+A) Persistence
+
+#####687#####
+B
+
+#####688#####
+A
+
+#####689#####
+B
+
+#####690#####
+D
+
+#####691#####
+B
+
+#####692#####
+B
+
+#####693#####
+A) Fox Kitten
+
+#####694#####
+B
+
+#####695#####
+B
+
+#####696#####
+D
+
+#####697#####
+The correct answer is:
+
+B) T1003: Credential Dumping
+
+#####698#####
+A) LaZagne
+
+#####699#####
+A) CredEnumerateW
+
+#####700#####
+A
+
+#####701#####
+C
+
+#####702#####
+B
+
+#####703#####
+B
+
+#####704#####
+C) T1555.001: Credentials from Password Stores: Keychain
+
+#####705#####
+B
+
+#####706#####
+B
+
+#####707#####
+D
+
+#####708#####
+B
+
+#####709#####
+B) Remote Terminal Unit (RTU)
+
+#####710#####
+B
+
+#####711#####
+B) M0813, Software Process and Device Authentication
+
+#####712#####
+B) B) Industroyer
+
+#####713#####
+C) C) Industroyer Attack
+
+#####714#####
+A) Watchdog timers
+
+#####715#####
+C) C) Watchdog timers
+
+#####716#####
+B) Linux
+
+#####717#####
+B
+
+#####718#####
+B
+
+#####719#####
+B
+
+#####720#####
+B
+
+#####721#####
+B) DS0015 | Application Log
+
+#####722#####
+The specific vulnerability that the Industroyer SIPROTEC DoS module exploits to render Siemens SIPROTEC devices unresponsive is **CVE-2015-5374**.
+
+**Answer:** B
+
+#####723#####
+B) Control Server
+
+#####724#####
+C) T0847 - Replication Through Removable Media
+
+#####725#####
+C
+
+#####726#####
+A) Disabling of AutoRun features
+
+#####727#####
+C
+
+#####728#####
+B
+
+#####729#####
+D
+
+#####730#####
+A) Host Network Interface, Traffic Monitoring
+
+B
+
+#####731#####
+B
+
+#####732#####
+The most relevant mitigation strategy for mitigating the effects of MITRE ATT&CK technique T0892 on ICS devices is:
+
+C) M0811 Redundancy of Service
+
+D
+
+#####733#####
+The most impacted targeted asset by the MITRE ATT&CK technique T0892 in an ICS environment would be:
+
+**Option A) Human-Machine Interface (HMI) (A0002)**
+
+**Answer: A**
+
+#####734#####
+The correct answer is: D
+
+#####735#####
+C
+
+#####736#####
+B) Logon Session
+
+#####737#####
+The correct answer is:
+
+B) INCONTROLLER
+
+#####738#####
+B
+
+#####739#####
+B
+
+#####740#####
+A) Implementing VPN servers
+
+#####741#####
+B
+
+#####742#####
+B
+
+#####743#####
+C) Lazarus Group
+
+#####744#####
+C
+
+#####745#####
+B
+
+#####746#####
+B
+
+#####747#####
+B
+
+#####748#####
+B
+
+#####749#####
+The correct answer is:
+
+D) T0840, Impair Process Control
+
+D
+
+#####750#####
+B
+
+#####751#####
+A) Asset, Network Traffic
+
+#####752#####
+A) T0865 - System Information Discovery
+
+#####753#####
+B
+
+#####754#####
+B
+
+#####755#####
+B
+
+#####756#####
+A) Network Segmentation
+
+#####757#####
+B
+
+#####758#####
+B
+
+#####759#####
+C) Network Traffic
+
+#####760#####
+A) Network Intrusion Prevention
+
+#####761#####
+B
+
+#####762#####
+C
+
+#####763#####
+B
+
+#####764#####
+A)
+
+#####765#####
+B) DS0009 - Process
+
+#####766#####
+The MITRE ATT&CK tactic that T0812 represents is **B) Execution**
+
+**Answer:** B
+
+#####767#####
+B
+
+#####768#####
+C
+
+#####769#####
+B
+
+#####770#####
+B
+
+#####771#####
+D
+
+#####772#####
+B
+
+#####773#####
+B
+
+#####774#####
+B
+
+#####775#####
+The correct answer is:
+
+B) T0854: Manipulation of Control
+
+#####776#####
+A) Contamination of the water supply by hazardous chemicals
+
+**Answer:** A
+
+#####777#####
+B
+
+#####778#####
+D
+
+#####779#####
+B) CopyKittens
+
+#####780#####
+A) Base64 encoding of collected data
+
+#####781#####
+B
+
+#####782#####
+B
+
+#####783#####
+D
+
+#####784#####
+B
+
+#####785#####
+B) Network Segmentation
+
+#####786#####
+B
+
+#####787#####
+A) ACAD/Medre.A (S1000)
+
+#####788#####
+B
+
+#####789#####
+A) Communication Authenticity (M0802)
+
+#####790#####
+B
+
+#####791#####
+C
+
+#####792#####
+B
+
+#####793#####
+A) Stuxnet
+
+#####794#####
+D) Loss of integrity logs
+
+#####795#####
+B
+
+#####796#####
+D
+
+#####797#####
+A) Triton Safety Instrumented System Attack
+
+#####798#####
+B
+
+#####799#####
+B) Firewall Log
+
+#####800#####
+B
+
+#####801#####
+B
+
+#####802#####
+B
+
+#####803#####
+C) TCON and TDISCON
+
+#####804#####
+B) M0934 - Execution Control
+
+#####805#####
+A) DS0009 - Process | OS API Execution; High data volume
+
+B
+
+#####806#####
+C
+
+#####807#####
+B
+
+#####808#####
+B
+
+#####809#####
+B) APT33
+
+#####810#####
+A) Human-Machine Interface (HMI)
+
+#####811#####
+C
+
+#####812#####
+B
+
+#####813#####
+C
+
+#####814#####
+C
+
+#####815#####
+B
+
+#####816#####
+D
+
+#####817#####
+B
+
+#####818#####
+B
+
+#####819#####
+A) Encryption
+
+#####820#####
+B
+
+#####821#####
+D
+
+#####822#####
+B
+
+#####823#####
+B) 7-Zip
+
+#####824#####
+The correct answer is:
+
+B) Tesla (S0331)
+
+#####825#####
+B) C0025 - Command and Control
+
+#####826#####
+D
+
+#####827#####
+C) A0012 - Jump Host
+
+#####828#####
+C) M0930 - Network Segmentation
+
+#####829#####
+A) 2016 Ukraine Electric Power Attack
+
+#####830#####
+C) Triton
+
+#####831#####
+B
+
+#####832#####
+C) Log Files
+
+#####833#####
+The correct answer is: B
+
+#####834#####
+B) Command and Control
+
+#####835#####
+A) Sandworm Team
+
+#####836#####
+B
+
+#####837#####
+B
+
+#####838#####
+B
+
+#####839#####
+A) By modifying the import table of kernel functions to redirect calls
+
+B
+
+#####840#####
+B
+
+#####841#####
+A
+
+#####842#####
+B
+
+#####843#####
+A) Application Isolation and Sandboxing
+
+#####844#####
+B
+
+#####845#####
+The correct answer is:
+
+C) Indicator Removal on Host (T1070.003)
+
+#####846#####
+C
+
+#####847#####
+C
+
+#####848#####
+B
+
+#####849#####
+The correct answer is: D
+
+#####850#####
+B
+
+#####851#####
+B
+
+#####852#####
+C) Communication Authenticity (M0802)
+
+#####853#####
+C
+
+#####854#####
+B
+
+#####855#####
+C
+
+#####856#####
+D) Network Firewalls
+
+#####857#####
+C) Network Traffic Flow
+
+#####858#####
+C) Lateral Movement
+
+#####859#####
+B
+
+#####860#####
+C
+
+#####861#####
+The correct answer is: C
+
+#####862#####
+The correct answer is:
+
+C) VPN connections and dual-homed systems
+
+B
+
+#####863#####
+B) Database servers
+
+#####864#####
+The correct answer is:
+
+D) EKANS
+
+#####865#####
+The correct answer is:
+
+A) EKANS
+
+#####866#####
+C) Command Execution
+
+#####867#####
+A) EKANS
+
+#####868#####
+B
+
+#####869#####
+The correct answer is:
+
+C) Discovery
+
+#####870#####
+C
+
+#####871#####
+D) InvisiMole
+
+#####872#####
+B
+
+#####873#####
+C) Lazarus Group
+
+#####874#####
+C) API Execution
+
+#####875#####
+A) Persistence
+
+#####876#####
+D) SCADA Server
+
+#####877#####
+C
+
+#####878#####
+A) Mimikatz
+
+#####879#####
+D
+
+#####880#####
+C
+
+#####881#####
+B
+
+#####882#####
+D
+
+#####883#####
+D
+
+#####884#####
+The best mitigation technique according to MITRE ATT&CK for providing monitoring and control support in case of a network outage, specifically mentioned for T0813 Denial of Control, is:
+
+D) Out-of-Band Communications Channel
+
+#####885#####
+The main control issue faced by operators during the 2017 Dallas Siren incident was:
+
+**Option D) Disabled ability to shut off false alarms**
+
+D
+
+#####886#####
+B
+
+#####887#####
+A) M0922 - Restrict File and Directory Permissions
+
+#####888#####
+B) DS0022 - File
+
+#####889#####
+B) Exfiltration
+
+#####890#####
+C
+
+#####891#####
+A) Authorization Enforcement
+
+#####892#####
+D
+
+#####893#####
+The specific command used by the Sandworm Team to leverage SCADA software to send unauthorized messages during the 2022 Ukraine Electric Power Attack was:
+
+**Option A) C:\sc\prog\exec\scada.exe -do pack\cmd\s1.txt**
+
+Therefore, the correct answer is:
+
+**A**
+
+#####894#####
+B
+
+#####895#####
+B
+
+#####896#####
+C) Opened the breakers at infected sites
+
+#####897#####
+A) M0811: Redundancy of Service
+
+#####898#####
+C) Programmable Logic Controller (PLC)
+
+#####899#####
+B
+
+#####900#####
+A) Network Traffic Logs
+
+#####901#####
+B
+
+#####902#####
+B
+
+#####903#####
+C
+
+#####904#####
+A) Data Exfiltration
+
+#####905#####
+B
+
+#####906#####
+B
+
+#####907#####
+C) M0802 - Communication Authenticity
+
+#####908#####
+B
+
+#####909#####
+C) To mimic normal and expected network traffic
+
+#####910#####
+B
+
+#####911#####
+A) M1037 - Filter Network Traffic
+
+#####912#####
+A) Network Traffic Flow
+
+#####913#####
+B
+
+#####914#####
+B
+
+#####915#####
+C
+
+#####916#####
+B
+
+#####917#####
+B
+
+#####918#####
+C) Disabling unnecessary features or programs
+
+#####919#####
+B
+
+#####920#####
+B
+
+#####921#####
+The best option is:
+
+C) Process History/Live Data Monitoring (DS0040)
+
+D
+
+#####922#####
+C
+
+#####923#####
+B) Privilege Escalation
+
+#####924#####
+C) Industroyer
+
+#####925#####
+C) Programmable Logic Controller (PLC)
+
+#####926#####
+B) ICS, Persistence
+
+#####927#####
+C
+
+#####928#####
+D
+
+#####929#####
+A) T0881: Exploit Public-Facing Application
+
+#####930#####
+D
+
+#####931#####
+B
+
+#####932#####
+A) Regular software patching
+
+#####933#####
+D
+
+#####934#####
+The correct answer is:
+
+C) T0804: Modify Control Logic
+
+**Answer:** C
+
+#####935#####
+B
+
+#####936#####
+B
+
+#####937#####
+B
+
+#####938#####
+B
+
+#####939#####
+A) Command Execution and File Deletion
+
+B
+
+#####940#####
+C
+
+#####941#####
+B
+
+#####942#####
+B
+
+#####943#####
+C
+
+#####944#####
+C) T0863 - User Execution
+
+#####945#####
+The Industroyer malware's OPC module can **B) Send out a status of 0x01 to indicate Primary Variable Out of Limits**.
+
+**Answer:** B
+
+#####946#####
+The correct answer is:
+
+C) Out-of-Band Communications Channel
+
+**Answer:**
+C
+
+#####947#####
+B
+
+#####948#####
+C
+
+#####949#####
+B) APT32
+
+#####950#####
+C) NavRAT
+
+#####951#####
+B
+
+#####952#####
+A) Network Traffic Content and Network Traffic Flow
+
+#####953#####
+The correct answer is:
+
+C) Human-Machine Interface (HMI)
+
+#####954#####
+A) Network Segmentation
+
+#####955#####
+D
+
+#####956#####
+B
+
+#####957#####
+B
+
+#####958#####
+B) Mobile devices
+
+#####959#####
+A) Stolen engineering software
+
+#####960#####
+B
+
+#####961#####
+C
+
+#####962#####
+C
+
+#####963#####
+The best option is:
+
+A) T1068: Exploitation for EoP
+
+D
+
+#####964#####
+B)
+
+#####965#####
+A) M0948: Application Isolation and Sandboxing
+
+#####966#####
+A) Denial of service via DDoS attacks
+
+**Answer:** A
+
+#####967#####
+B
+
+#####968#####
+The key aspect of the Industroyer malware (MITRE ATT&CK T0827) that contributed to a loss of control in affected systems is:
+
+**Option B) Overwriting all files and removing registry paths**
+
+D
+
+#####969#####
+B
+
+#####970#####
+B
+
+#####971#####
+C
+
+#####972#####
+B
+
+#####973#####
+A) M0941 - Encrypt Sensitive Information
+
+#####974#####
+B)
+
+#####975#####
+B) Evasion
+
+#####976#####
+A) 2016 Ukraine Electric Power Attack
+
+#####977#####
+B
+
+#####978#####
+C) File
+
+#####979#####
+B
+
+#####980#####
+A) S0604 Industroyer
+
+#####981#####
+The best option for the mitigation strategy to ensure stored data remains uncompromised and readily available for quick recovery in the context of the 'Loss of View' technique (T0829) is:
+
+**Option A) M0953 Data Backup**
+
+**Answer: A**
+
+#####982#####
+B
+
+#####983#####
+B
+
+#####984#####
+D
+
+#####985#####
+B
+
+#####986#####
+B
+
+#####987#####
+C)
+
+#####988#####
+B
+
+#####989#####
+B) Out-of-Band Communications Channel
+
+#####990#####
+A
+
+#####991#####
+B
+
+#####992#####
+D
+
+#####993#####
+B
+
+#####994#####
+C
+
+#####995#####
+The correct answer is:
+
+A) EKANS
+
+#####996#####
+B
+
+#####997#####
+B
+
+#####998#####
+B) S0201-JPIN
+
+#####999#####
+B
+
+#####1000#####
+C
+
+#####1001#####
+B
+
+#####1002#####
+B
+
+#####1003#####
+D
+
+#####1004#####
+C) Access Management
+
+#####1005#####
+B
+
+#####1006#####
+B
+
+#####1007#####
+C) Network Traffic
+
+#####1008#####
+The correct answer is:
+
+C) Lateral Tool Transfer [T0867]
+
+#####1009#####
+A) 2015 Ukraine Electric Power Attack
+
+#####1010#####
+C) Network Intrusion Prevention
+
+#####1011#####
+D
+
+#####1012#####
+B
+
+#####1013#####
+B
+
+#####1014#####
+B
+
+#####1015#####
+A) Network Interface Cards
+
+#####1016#####
+B
+
+#####1017#####
+D) S0603 | Stuxnet
+
+#####1018#####
+B
+
+#####1019#####
+A) T0863 | Parameter Manipulation
+
+A
+
+#####1020#####
+B
+
+#####1021#####
+B
+
+#####1022#####
+B
+
+#####1023#####
+A) Stuxnet
+
+#####1024#####
+C) Lateral movement
+
+#####1025#####
+D
+
+#####1026#####
+A) Dragonfly
+
+#####1027#####
+B) Exploit Protection
+
+#####1028#####
+C
+
+#####1029#####
+The correct answer is: A) Initial Access
+
+**Answer:** A
+
+#####1030#####
+C
+
+#####1031#####
+A) Industroyer
+
+#####1032#####
+B
+
+#####1033#####
+C
+
+#####1034#####
+D
+
+#####1035#####
+C) M0945: Code Signing
+
+#####1036#####
+B
+
+#####1037#####
+A) Defense Evasion
+
+#####1038#####
+B
+
+#####1039#####
+B) M0802 - Communication Authenticity
+
+B
+
+#####1040#####
+B) System Event Logs
+
+#####1041#####
+The correct answer is: A
+
+#####1042#####
+The threat actor that can exploit hardcoded credentials to infiltrate Omron PLCs is:
+
+**Option B) Stuxnet**
+
+**Answer: B**
+
+#####1043#####
+B
+
+#####1044#####
+A) 2015 Ukraine Electric Power Attack
+
+#####1045#####
+The correct answer is:
+
+A) 3PARA RAT
+
+#####1046#####
+B
+
+#####1047#####
+A) Network Traffic Flow
+
+#####1048#####
+D
+
+#####1049#####
+A) Wininet API
+
+#####1050#####
+C
+
+#####1051#####
+B
+
+#####1052#####
+C
+
+#####1053#####
+The correct answer is:
+
+B) It defines methods for detecting network intrusion attempts on safety controllers.
+
+B
+
+#####1054#####
+The correct answer is: C
+
+#####1055#####
+D
+
+#####1056#####
+B
+
+#####1057#####
+B
+
+#####1058#####
+B
+
+#####1059#####
+The best option is: A) M0805 – Mechanical Protection Layers
+
+**Answer:** A
+
+#####1060#####
+B
+
+#####1061#####
+The correct answer is:
+
+B) Access Token Validation
+
+#####1062#####
+A) Host-based Detection
+
+#####1063#####
+D
+
+#####1064#####
+B
+
+#####1065#####
+B
+
+#####1066#####
+B
+
+#####1067#####
+A) Janus
+
+#####1068#####
+B
+
+#####1069#####
+C
+
+#####1070#####
+The correct answer is:
+
+B) Unix shells on Android and iOS devices can control every aspect of a system.
+
+**Answer:** B
+
+#####1071#####
+B) DoubleAgent
+
+#####1072#####
+B
+
+#####1073#####
+B
+
+#####1074#####
+B
+
+#####1075#####
+The correct answer is:
+
+D) Emotet
+
+#####1076#####
+B
+
+#####1077#####
+B
+
+#####1078#####
+A) BOULDSPY and RCSAndroid
+
+#####1079#####
+B
+
+#####1080#####
+D
+
+#####1081#####
+C
+
+#####1082#####
+D
+
+#####1083#####
+B
+
+#####1084#####
+The correct answer is:
+
+A) Answer Phone Calls (T1616)
+
+#####1085#####
+B
+
+#####1086#####
+A) ANSWER_PHONE_CALLS
+
+#####1087#####
+A) T1397 - Bootkit
+
+#####1088#####
+D) M1004 - System Partition Integrity
+
+#####1089#####
+A) RECORD_AUDIO
+
+#####1090#####
+C
+
+#####1091#####
+B
+
+#####1092#####
+B) Use Antivirus Software
+
+#####1093#####
+The correct answer is:
+
+B) Application Vetting
+
+#####1094#####
+B) EscapeROUTER
+
+#####1095#####
+B
+
+#####1096#####
+B) Asacub
+
+#####1097#####
+The correct answer is:
+
+A) Desert Scorpion
+
+#####1098#####
+B
+
+#####1099#####
+B) Network Communication Analysis
+
+#####1100#####
+A) EventBot (S0478)
+
+#####1101#####
+The correct answer is:
+
+D) T1566.001: Phishing: Email Phishing
+
+#####1102#####
+B
+
+#####1103#####
+B
+
+#####1104#####
+B
+
+#####1105#####
+D) HTTPS
+
+#####1106#####
+B) FTP
+
+#####1107#####
+B) DNS
+
+#####1108#####
+B) T1640 - Network Sniffing
+
+#####1109#####
+B
+
+#####1110#####
+A) M1009 - Encrypt Network Traffic
+
+#####1111#####
+D) DS0029 - Network Traffic
+
+#####1112#####
+B
+
+#####1113#####
+The best option is:
+
+B) T1517 - Access Notifications
+
+B
+
+#####1114#####
+D
+
+#####1115#####
+D
+
+#####1116#####
+A) Application Hardening
+
+#####1117#####
+B
+
+#####1118#####
+B
+
+#####1119#####
+B
+
+#####1120#####
+B) Network Traffic
+
+#####1121#####
+The correct answer is:
+
+C) Application Developer Guidance
+
+#####1122#####
+B
+
+#####1123#####
+The best option is D) Host Network Communication (DS0013)
+
+D
+
+#####1124#####
+A) Network Segmentation (M1030)
+
+#####1125#####
+B
+
+#####1126#####
+The correct answer is:
+
+B) DoubleAgent
+
+#####1127#####
+The correct answer is:
+
+B) Exodus
+
+#####1128#####
+The best option is: A) Network Traffic Analysis
+
+#####1129#####
+The correct answer is:
+
+A) FORCEDENTRY
+
+#####1130#####
+C) Security Updates
+
+#####1131#####
+B
+
+#####1132#####
+A) Pegasus for iOS
+
+#####1133#####
+B) Implement network segmentation
+
+#####1134#####
+The correct answer is:
+
+B) BOULDSPY
+
+#####1135#####
+B
+
+#####1136#####
+The correct answer is:
+
+A) Pallas
+
+#####1137#####
+C
+
+#####1138#####
+B
+
+#####1139#####
+C) ACCESS_FINE_LOCATION and ACCESS_BACKGROUND_LOCATION
+
+#####1140#####
+C) Deploy Network Segmentation
+
+#####1141#####
+C
+
+#####1142#####
+C
+
+#####1143#####
+A) Wait for an ARP request and respond first
+
+**Answer:** A
+
+#####1144#####
+D
+
+#####1145#####
+B
+
+#####1146#####
+The correct answer is:
+
+C) C. LuminousMoth
+
+#####1147#####
+A
+
+#####1148#####
+The best option is:
+
+C) An adversary deploying malware that fails to run if a debugging tool is detected.
+
+**Answer:**
+C
+
+#####1149#####
+C
+
+#####1150#####
+B) Android 6
+
+#####1151#####
+A
+
+#####1152#####
+B
+
+#####1153#####
+The correct answer is:
+
+B) By receiving CONNECTIVITY_CHANGE intents
+
+B
+
+#####1154#####
+B
+
+#####1155#####
+The correct answer is:
+
+B) BOULDSPY
+
+#####1156#####
+C
+
+#####1157#####
+The correct answer is:
+
+B) Exobot can lock the device with a password and permanently disable the screen.
+
+**Answer:** B
+
+#####1158#####
+B
+
+#####1159#####
+D
+
+#####1160#####
+B
+
+#####1161#####
+B
+
+#####1162#####
+B) CHEMISTGAMES
+
+#####1163#####
+A) Detecting encrypted traffic
+
+**Answer:** A
+
+#####1164#####
+B) T1110.004
+
+#####1165#####
+D) Curve25519
+
+#####1166#####
+A) Encrypt JSON HTTP payloads with AES
+
+#####1167#####
+C
+
+#####1168#####
+A)
+
+#####1169#####
+B
+
+#####1170#####
+C
+
+#####1171#####
+B) Mimikatz
+
+#####1172#####
+C) UDP 5355
+
+#####1173#####
+C
+
+#####1174#####
+The tactic associated with MITRE ATT&CK technique T1557.001 is **Persistence**.
+
+**Answer:** D
+
+#####1175#####
+D
+
+#####1176#####
+D
+
+#####1177#####
+C
+
+#####1178#####
+B
+
+#####1179#####
+B) INSOMNIA
+
+#####1180#####
+C) Regularly applying security updates
+
+#####1181#####
+B
+
+#####1182#####
+B
+
+#####1183#####
+B
+
+#####1184#####
+The best option to limit the ability of applications to download and execute native code at runtime is:
+
+**Option C) Use Recent OS Version**
+
+**Answer:** C
+
+#####1185#####
+B
+
+#####1186#####
+B) Mobile
+
+#####1187#####
+C
+
+#####1188#####
+B) S1062 - S.O.V.A.
+
+#####1189#####
+C
+
+#####1190#####
+B
+
+#####1191#####
+B
+
+#####1192#####
+The correct answer is:
+
+D) Persistence
+
+#####1193#####
+B
+
+#####1194#####
+The correct answer is:
+
+A) Jiwifty
+
+#####1195#####
+C) Encrypted files
+
+D
+
+#####1196#####
+C) Stealth Mango
+
+#####1197#####
+B
+
+#####1198#####
+D
+
+#####1199#####
+A)
+
+#####1200#####
+D
+
+#####1201#####
+D
+
+#####1202#####
+The correct answer is: A
+
+#####1203#####
+C) C) Modify system settings
+
+**Answer:** C
+
+#####1204#####
+B) Dynamic Analysis of apps
+
+#####1205#####
+The correct answer is:
+
+B) T1417.002
+
+#####1206#####
+C) Anubis
+
+#####1207#####
+B
+
+#####1208#####
+B
+
+#####1209#####
+C
+
+#####1210#####
+A) Cerberus
+
+#####1211#####
+A
+
+#####1212#####
+C
+
+#####1213#####
+B
+
+#####1214#####
+B
+
+#####1215#####
+The primary file path of the TCC database on macOS systems is:
+
+**Option B) /Library/Application Support/com.apple.TCC/TCC.db**
+
+**Answer:** B
+
+#####1216#####
+B
+
+#####1217#####
+C) tccutil reset
+
+#####1218#####
+A) Network Sniffing
+
+#####1219#####
+A) T1598.001: Victim DNS Poisoning
+
+#####1220#####
+The correct answer is:
+
+C) M1041: Encrypt Sensitive Information
+
+#####1221#####
+A) Network Traffic Logs
+
+#####1222#####
+B
+
+#####1223#####
+B
+
+#####1224#####
+B
+
+#####1225#####
+A) Application Vetting (DS0041)
+
+#####1226#####
+A) Is it T1027 – Obfuscated Files or Information?
+
+#####1227#####
+The correct answer is:
+
+B
+
+#####1228#####
+B
+
+#####1229#####
+The best option to address the risks associated with T1630.002: Indicator Removal on Host: File Deletion is:
+
+**Option C) System Patch Management**
+
+D
+
+#####1230#####
+A) Application Logs
+
+#####1231#####
+B
+
+#####1232#####
+A) Attestation
+
+#####1233#####
+C) System Logging
+
+#####1234#####
+C)
+
+#####1235#####
+A) DS0041 - Application Vetting
+
+#####1236#####
+B
+
+#####1237#####
+A) System Partition Integrity (M1004)
+
+#####1238#####
+The correct answer is:
+
+A) AbstractEmu (S1061) 
+
+**Answer:** A
+
+#####1239#####
+C) onUserLeaveHint()
+
+#####1240#####
+B
+
+#####1241#####
+The correct answer is:
+
+C) It locks an HTML page in the foreground
+
+D
+
+#####1242#####
+A) This: performGlobalAction(int)
+
+#####1243#####
+B
+
+#####1244#####
+B) Enterprise Policy
+
+#####1245#####
+B
+
+#####1246#####
+D
+
+#####1247#####
+C) Patch vulnerabilities to prevent root access
+
+**Answer:** C
+
+#####1248#####
+B) B. Dirb, DirBuster, GoBuster
+
+#####1249#####
+B. B. Charming Kitten, APT32
+
+#####1250#####
+B
+
+#####1251#####
+A) Xposed
+
+#####1252#####
+B
+
+#####1253#####
+C) Dvmap
+
+#####1254#####
+D
+
+#####1255#####
+C
+
+#####1256#####
+D
+
+#####1257#####
+B
+
+#####1258#####
+C
+
+#####1259#####
+A) M1006 - Use Recent OS Version
+
+#####1260#####
+B
+
+#####1261#####
+B
+
+#####1262#####
+A) A synthesized activity is shown instead
+
+#####1263#####
+A) Hiding icons through legitimate system features
+
+**Answer:** A
+
+#####1264#####
+The correct answer is:
+
+B) DS0040
+
+#####1265#####
+A) Restrict Network Traffic
+
+#####1266#####
+A) Network Traffic Analysis
+
+#####1267#####
+B) Credential Access
+
+#####1268#####
+B
+
+#####1269#####
+A) Use of root access to modify system binaries
+
+#####1270#####
+A) T1541 - Foreground Persistence
+
+#####1271#####
+The correct answer is:
+
+C) TERRACOTTA
+
+#####1272#####
+B
+
+#####1273#####
+B
+
+#####1274#####
+The correct answer is:
+
+B) S0577 - FrozenCell
+
+#####1275#####
+B
+
+#####1276#####
+A
+
+#####1277#####
+B
+
+#####1278#####
+D
+
+#####1279#####
+B
+
+#####1280#####
+The best option to prevent adversaries from exploiting MITRE ATT&CK technique T1655 (Masquerading) is:
+
+B) Regular Patching and Updates
+
+**Answer:** B
+
+#####1281#####
+C) T1461 Lockscreen Bypass
+
+#####1282#####
+B
+
+#####1283#####
+B
+
+#####1284#####
+C
+
+#####1285#####
+B) M1014 - Interconnection Filtering
+
+#####1286#####
+B
+
+#####1287#####
+B
+
+#####1288#####
+C
+
+#####1289#####
+B) ACCESS_BACKGROUND_LOCATION
+
+#####1290#####
+B
+
+#####1291#####
+B) LOCATION TRACKING (ID: T1430)
+
+#####1292#####
+C
+
+#####1293#####
+A) A. WifiManager.GET_WIFI_LIST and ACCESS_NETWORK_STATE
+
+**Answer:** A
+
+#####1294#####
+B. B. S0509 (FakeSpy)
+
+#####1295#####
+D.
+
+#####1296#####
+B) S0545 | TERRACOTTA
+
+#####1297#####
+The correct answer is: C
+
+#####1298#####
+The correct answer is:
+
+C) S0405 | Exodus
+
+#####1299#####
+B
+
+#####1300#####
+A) Pegasus for Android
+
+#####1301#####
+B
+
+#####1302#####
+B
+
+#####1303#####
+The correct answer is:
+
+B) T1422
+
+#####1304#####
+B) Android 12
+
+#####1305#####
+B
+
+#####1306#####
+B
+
+#####1307#####
+A) Exodus
+
+#####1308#####
+A) Use encryption
+
+#####1309#####
+The correct answer is:
+
+A) T1425
+
+#####1310#####
+B) ICS
+
+#####1311#####
+B) AhRat
+
+#####1312#####
+B
+
+#####1313#####
+B) ViceLeaker
+
+#####1314#####
+B
+
+#####1315#####
+A) Manipulating application source code prior to consumer receipt
+
+**Answer:** A
+
+#####1316#####
+B
+
+#####1317#####
+C
+
+#####1318#####
+B
+
+#####1319#####
+A) XcodeGhost
+
+#####1320#####
+The correct answer is: D
+
+#####1321#####
+D
+
+#####1322#####
+The correct answer is:
+
+C) Application Developer Guidance
+
+#####1323#####
+B) Endpoint Monitoring
+
+#####1324#####
+A) T1632.001: Code Signing Policy Manipulation
+
+#####1325#####
+The best option among the provided choices is:
+
+C) M1040: Behavior Prevention on Endpoint
+
+**Answer:** C
+
+#####1326#####
+B
+
+#####1327#####
+B
+
+#####1328#####
+B
+
+#####1329#####
+A) System Logs
+
+#####1330#####
+B) Defense Evasion
+
+#####1331#####
+A
+
+#####1332#####
+B) Exodus
+
+#####1333#####
+A) FakeSpy
+
+#####1334#####
+A) Isolate System Services
+
+#####1335#####
+D
+
+#####1336#####
+A) Encouraging the use of explicit intents and checking the destination app's signing certificate
+
+**Answer:** A
+
+#####1337#####
+B
+
+#####1338#####
+A) Application Vetting and API Calls
+
+A
+
+#####1339#####
+The correct answer is:
+
+A
+
+#####1340#####
+C) Utilizing the PKCE protocol
+
+#####1341#####
+B
+
+#####1342#####
+B
+
+#####1343#####
+A) Network segmentation to isolate critical assets.
+
+#####1344#####
+A) Process Monitoring and Network Traffic Content. 
+
+B
+
+#####1345#####
+A) Cerberus
+
+#####1346#####
+C
+
+#####1347#####
+B
+
+#####1348#####
+B
+
+#####1349#####
+The correct answer is:
+
+C) Screen Capture (T1513)
+
+#####1350#####
+The correct answer is:
+
+A) AhRat (S1095)
+
+#####1351#####
+B
+
+#####1352#####
+B
+
+#####1353#####
+B
+
+#####1354#####
+C
+
+#####1355#####
+The correct answer is:
+
+B) TERRACOTTA
+
+#####1356#####
+C
+
+#####1357#####
+B
+
+#####1358#####
+B
+
+#####1359#####
+B
+
+#####1360#####
+The correct answer is D) By using AirMirror for device control.
+
+D
+
+#####1361#####
+B
+
+#####1362#####
+C
+
+#####1363#####
+B
+
+#####1364#####
+B
+
+#####1365#####
+A) Permissions Requests
+
+#####1366#####
+B
+
+#####1367#####
+D) User Guidance
+
+#####1368#####
+C
+
+#####1369#####
+B) AhRat
+
+#####1370#####
+C) End-to-End Encryption
+
+#####1371#####
+B) User Interface
+
+#####1372#####
+B
+
+#####1373#####
+A) Contacts Content Provider
+
+#####1374#####
+B
+
+#####1375#####
+C) WolfRAT
+
+#####1376#####
+B
+
+#####1377#####
+B
+
+#####1378#####
+C
+
+#####1379#####
+B
+
+#####1380#####
+D
+
+#####1381#####
+B
+
+#####1382#####
+B
+
+#####1383#####
+A) EventKit framework
+
+#####1384#####
+A) Using multi-factor authentication
+
+**Answer:** A
+
+#####1385#####
+B
+
+#####1386#####
+C)
+
+#####1387#####
+A
+
+#####1388#####
+B
+
+#####1389#####
+B
+
+#####1390#####
+B
+
+#####1391#####
+B
+
+#####1392#####
+B
+
+#####1393#####
+C
+
+#####1394#####
+B
+
+#####1395#####
+A) Smishing
+
+#####1396#####
+B
+
+#####1397#####
+C
+
+#####1398#####
+B
+
+#####1399#####
+B
+
+#####1400#####
+B
+
+#####1401#####
+C
+
+#####1402#####
+B
+
+#####1403#####
+A) Ginp
+
+#####1404#####
+B
+
+#####1405#####
+B
+
+#####1406#####
+A) Monokle
+
+#####1407#####
+B
+
+#####1408#####
+A
+
+#####1409#####
+The correct answer is: D
+
+#####1410#####
+B. Chameleon
+
+#####1411#####
+The correct answer is:
+
+B) B. HTTPS over ports 43111, 43223, and 43773
+
+#####1412#####
+B
+
+#####1413#####
+The correct answer is:
+
+B) Implementing strong access controls
+
+**Answer:** B
+
+#####1414#####
+B
+
+#####1415#####
+B
+
+#####1416#####
+C
+
+#####1417#####
+D
+
+#####1418#####
+The correct answer is:
+
+A) Authentication Logs
+
+D
+
+#####1419#####
+The correct answer is:
+
+A) HTTP over port 443
+
+**My Answer:** A
+
+#####1420#####
+The correct answer is:
+
+B) Anubis
+
+#####1421#####
+C
+
+#####1422#####
+C) Network Traffic Analysis
+
+#####1423#####
+B
+
+#####1424#####
+C) ability to dynamically change infrastructure
+
+#####1425#####
+C
+
+#####1426#####
+B
+
+#####1427#####
+The correct answer is:
+
+C) Anubis
+
+#####1428#####
+B
+
+#####1429#####
+D
+
+#####1430#####
+B
+
+#####1431#####
+B) B. APT29
+
+#####1432#####
+B
+
+#####1433#####
+B. Earth Lusca
+
+#####1434#####
+B
+
+#####1435#####
+The correct answer is:
+
+C) T1512 - Video Capture
+
+B
+
+#####1436#####
+B
+
+#####1437#####
+B
+
+#####1438#####
+B) Sunbird
+
+#####1439#####
+C)
+
+#####1440#####
+B
+
+#####1441#####
+B
+
+#####1442#####
+B
+
+#####1443#####
+B
+
+#####1444#####
+The correct answer is:
+
+C) Blue Mockingbird
+
+#####1445#####
+A) Elevating execution context to a higher privilege
+
+**Answer:** A
+
+#####1446#####
+D
+
+#####1447#####
+A) LogonUser
+
+#####1448#####
+B) C0135
+
+#####1449#####
+B
+
+#####1450#####
+A) G0007 - APT28
+
+#####1451#####
+The correct answer is:
+
+B) DS0035 - Internet Scan
+
+#####1452#####
+C
+
+#####1453#####
+B
+
+#####1454#####
+B
+
+#####1455#####
+A) Phishing
+
+#####1456#####
+B) T1082
+
+#####1457#####
+A) Watering Hole Attack
+
+#####1458#####
+A
+
+#####1459#####
+A) Domain Name System logs
+
+#####1460#####
+A) Register similar domains to your own
+
+**Answer:** A
+
+#####1461#####
+C
+
+#####1462#####
+B
+
+#####1463#####
+B
+
+#####1464#####
+B
+
+#####1465#####
+The correct answer is:
+
+B) B. Windows Media Player
+
+#####1466#####
+D
+
+#####1467#####
+The correct answer is:
+
+B) B. Modifying host software binaries for persistence
+
+**Answer:** B
+
+#####1468#####
+B) B. IAT Hooking
+
+#####1469#####
+C
+
+#####1470#####
+B. B. APT33
+
+#####1471#####
+B. Use multi-factor authentication.
+
+#####1472#####
+B) Credential Access
+
+#####1473#####
+B
+
+#####1474#####
+A) Use of Multi-Factor Authentication (MFA)
+
+#####1475#####
+B
+
+#####1476#####
+The correct answer is:
+
+C) G0010 - APT33
+
+C
+
+#####1477#####
+D
+
+#####1478#####
+B
+
+#####1479#####
+B
+
+#####1480#####
+D
+
+#####1481#####
+C
+
+#####1482#####
+C
+
+#####1483#####
+A) Privileged Account Management (M1026)
+
+#####1484#####
+B
+
+#####1485#####
+The correct answer is: **A) G0007 (APT28)**
+
+#####1486#####
+The correct answer is **B) S0140 (Shamoon)**. 
+
+**B**
+
+#####1487#####
+A)
+
+#####1488#####
+The correct answer is:
+
+C) M1038: Execution Prevention
+
+#####1489#####
+C
+
+#####1490#####
+B
+
+#####1491#####
+C) Implementing Least Privilege
+
+#####1492#####
+D) Command Execution
+
+#####1493#####
+B
+
+#####1494#####
+C
+
+#####1495#####
+B
+
+#####1496#####
+B
+
+#####1497#####
+D
+
+#####1498#####
+B) Avaddon
+
+#####1499#####
+B
+
+#####1500#####
+B) M1042
+
+#####1501#####
+The correct answer is:
+
+B) DS0011
+
+#####1502#####
+B
+
+#####1503#####
+C
+
+#####1504#####
+C
+
+#####1505#####
+The correct answer is:
+
+B) Operation Night Dragon
+
+#####1506#####
+B) Tonto Team
+
+#####1507#####
+The correct answer is:
+
+A) T1059.001
+
+#####1508#####
+A) COM (Component Object Model)
+
+#####1509#####
+B
+
+#####1510#####
+B) A
+
+#####1511#####
+D
+
+#####1512#####
+The correct answer is:
+
+B) T1086
+
+#####1513#####
+B
+
+#####1514#####
+The correct answer is D) OSX/Shlayer (S0402) 
+
+D
+
+#####1515#####
+A) Command Process
+
+#####1516#####
+The correct option is:
+
+A) Execution Prevention (M1038) 
+
+B
+
+#####1517#####
+B
+
+#####1518#####
+B
+
+#####1519#####
+B) A
+
+#####1520#####
+B
+
+#####1521#####
+The correct answer is:
+
+D) SolarWinds Compromise
+
+#####1522#####
+C
+
+#####1523#####
+The correct answer is:
+
+D) COBALT STRIKE
+
+#####1524#####
+B) Dok
+
+#####1525#####
+The Dok adversary uses AppleScript to create a login item for persistence.
+
+**Answer:**
+C
+
+#####1526#####
+C
+
+#####1527#####
+B
+
+#####1528#####
+B
+
+#####1529#####
+B) Confucius
+
+#####1530#####
+B
+
+#####1531#####
+B
+
+#####1532#####
+B
+
+#####1533#####
+A) Script Block Logging - Script Execution
+
+**Answer:** A
+
+#####1534#####
+B
+
+#####1535#####
+B) Azorult
+
+#####1536#####
+The correct answer is:
+
+B) Privileged Account Management
+
+#####1537#####
+B
+
+#####1538#####
+B
+
+#####1539#####
+B
+
+#####1540#####
+B
+
+#####1541#####
+B
+
+#####1542#####
+The correct answer is:
+
+A) Fox Kitten
+
+#####1543#####
+B) Module
+
+#####1544#####
+B) APT37
+
+#####1545#####
+B
+
+#####1546#####
+B
+
+#####1547#####
+B
+
+#####1548#####
+D
+
+#####1549#####
+B
+
+#####1550#####
+D
+
+#####1551#####
+B
+
+#####1552#####
+B
+
+#####1553#####
+B
+
+#####1554#####
+D
+
+#####1555#####
+The correct answer is: C) User Account Management
+
+D
+
+#####1556#####
+B
+
+#####1557#####
+B
+
+#####1558#####
+B
+
+#####1559#####
+B
+
+#####1560#####
+The correct answer is:
+
+C) DS0017 - Command Execution
+
+#####1561#####
+A) M1026 - Privileged Account Management
+
+#####1562#####
+The correct answer is: A) T1115, Collection
+
+**Answer:** A
+
+#####1563#####
+B
+
+#####1564#####
+D
+
+#####1565#####
+The correct answer is:
+
+A) Astaroth and Attor
+
+**Answer:** A
+
+#####1566#####
+The correct answer is:
+
+B) Metamorfo
+
+#####1567#####
+C
+
+#####1568#####
+The best data source to detect the creation of unexpected Docker image build requests in the environment would be:
+
+**Option D) DS0033: Process Monitoring**
+
+D
+
+#####1569#####
+A) Enforce TLS communication on port 2376 by disabling unauthenticated access to port 2375
+
+D
+
+#####1570#####
+A) SSH (22/TCP)
+
+#####1571#####
+B
+
+#####1572#####
+C
+
+#####1573#####
+B) Chimera
+
+#####1574#####
+B
+
+#####1575#####
+The correct answer is:
+
+C) 80/TCP
+
+#####1576#####
+B) A
+
+#####1577#####
+A) Eliminating Default Accounts
+
+**Answer:** A
+
+#####1578#####
+C) Event ID 4625
+
+#####1579#####
+A
+
+#####1580#####
+B
+
+#####1581#####
+B
+
+#####1582#####
+B
+
+#####1583#####
+B
+
+#####1584#####
+B
+
+#####1585#####
+B
+
+#####1586#####
+C
+
+#####1587#####
+B
+
+#####1588#####
+C
+
+#####1589#####
+C)
+
+#####1590#####
+C
+
+#####1591#####
+B
+
+#####1592#####
+D
+
+#####1593#####
+B
+
+#####1594#####
+C) To specify the resources event x provides to enable event y
+
+B
+
+#####1595#####
+B
+
+#####1596#####
+B
+
+#####1597#####
+C
+
+#####1598#####
+A) Identifying adversary infrastructure
+
+#####1599#####
+B
+
+#####1600#####
+A
+
+#####1601#####
+B
+
+#####1602#####
+C
+
+#####1603#####
+D
+
+#####1604#####
+D
+
+#####1605#####
+D
+
+#####1606#####
+A) (a) Showing compliance with GDPR provisions to supervisory authorities
+
+**Answer:** A
+
+#####1607#####
+B
+
+#####1608#####
+C
+
+#####1609#####
+B
+
+#####1610#####
+A) When the accuracy of data is not contested.
+
+**Answer:** A
+
+#####1611#####
+C
+
+#####1612#####
+D
+
+#####1613#####
+C) Cyber threat information sharing
+
+#####1614#####
+B
+
+#####1615#####
+D
+
+#####1616#####
+B
+
+#####1617#####
+B
+
+#####1618#####
+C
+
+#####1619#####
+A) TLP:GREEN
+
+#####1620#####
+C
+
+#####1621#####
+C
+
+#####1622#####
+A
+
+#####1623#####
+C
+
+#####1624#####
+B
+
+#####1625#####
+D
+
+#####1626#####
+C) Each individual member.
+
+#####1627#####
+B
+
+#####1628#####
+C
+
+#####1629#####
+D
+
+#####1630#####
+C
+
+#####1631#####
+A
+
+#####1632#####
+C
+
+#####1633#####
+A)
+
+#####1634#####
+C)
+
+#####1635#####
+B
+
+#####1636#####
+D
+
+#####1637#####
+C
+
+#####1638#####
+B
+
+#####1639#####
+C
+
+#####1640#####
+B
+
+#####1641#####
+C) Public affairs office, legal department, and management
+
+D
+
+#####1642#####
+C
+
+#####1643#####
+C) Tiger Team.
+
+#####1644#####
+C
+
+#####1645#####
+B)
+
+#####1646#####
+C
+
+#####1647#####
+D
+
+#####1648#####
+B
+
+#####1649#####
+C
+
+#####1650#####
+B
+
+#####1651#####
+C
+
+#####1652#####
+B
+
+#####1653#####
+B
+
+#####1654#####
+B
+
+#####1655#####
+C
+
+#####1656#####
+C
+
+#####1657#####
+C
+
+#####1658#####
+D
+
+#####1659#####
+C
+
+#####1660#####
+B) By enhancing incident analysis
+
+#####1661#####
+C
+
+#####1662#####
+C
+
+#####1663#####
+B
+
+#####1664#####
+B
+
+#####1665#####
+C
+
+#####1666#####
+B
+
+#####1667#####
+C) Conducting a lessons learned meeting
+
+#####1668#####
+C) Ensuring the right people are involved
+
+#####1669#####
+A)
+
+#####1670#####
+B
+
+#####1671#####
+B
+
+#####1672#####
+A) Hash Values
+
+#####1673#####
+B
+
+#####1674#####
+B
+
+#####1675#####
+B
+
+#####1676#####
+A)
+
+#####1677#####
+C
+
+#####1678#####
+B
+
+#####1679#####
+C
+
+#####1680#####
+B
+
+#####1681#####
+A) Encapsulation of multiple STIX objects
+
+**Answer:** A
+
+#####1682#####
+C
+
+#####1683#####
+C
+
+#####1684#####
+C) UTF-8 encoded JSON
+
+#####1685#####
+C) TAXII
+
+#####1686#####
+C
+
+#####1687#####
+B
+
+#####1688#####
+B
+
+#####1689#####
+B
+
+#####1690#####
+C
+
+#####1691#####
+A)
+
+#####1692#####
+A) HTTP over TLS (HTTPS)
+
+#####1693#####
+B
+
+#####1694#####
+D
+
+#####1695#####
+A) application/json
+
+#####1696#####
+B
+
+#####1697#####
+C) Detection indicators
+
+#####1698#####
+C
+
+#####1699#####
+B
+
+#####1700#####
+D
+
+#####1701#####
+D
+
+#####1702#####
+B
+
+#####1703#####
+A) Nation-state attribution
+
+#####1704#####
+B) External intelligence feeds
+
+#####1705#####
+B) Spearman’s Rank Correlation Coefficient
+
+#####1706#####
+B
+
+#####1707#####
+B
+
+#####1708#####
+A) Sam used unreliable intelligence sources.
+
+B
+
+#####1709#####
+C)
+
+#####1710#####
+B
+
+#####1711#####
+B
+
+#####1712#####
+C) Centralized storage
+
+#####1713#####
+B
+
+#####1714#####
+C
+
+#####1715#####
+B
+
+#####1716#####
+C)
+
+#####1717#####
+The best option for Alice to perform qualitative data analysis is:
+
+C) Brainstorming, interviewing, SWOT analysis, Delphi technique, and so on
+
+D
+
+#####1718#####
+C) OSINT
+
+#####1719#####
+D
+
+#####1720#####
+B
+
+#####1721#####
+A) related: www.infothech.org
+
+#####1722#####
+C) Analysis of competing hypotheses (ACH)
+
+#####1723#####
+B
+
+#####1724#####
+C) Known unknowns
+
+#####1725#####
+A) Data collection through passive DNS monitoring
+
+#####1726#####
+D) Persistence
+
+#####1727#####
+C
+
+#####1728#####
+A) Mediated trust
+
+#####1729#####
+C
+
+#####1730#####
+The correct answer is:
+
+C) Weaponization
+
+#####1731#####
+C
+
+#####1732#####
+A) Game theory
+
+#####1733#####
+B
+
+#####1734#####
+A) 1-->9-->2-->8-->3-->7-->4-->6-->5
+
+**Answer:** A
+
+#####1735#####
+D
+
+#####1736#####
+C) Workflow
+
+#####1737#####
+B) Evidence
+
+#####1738#####
+D
+
+#####1739#####
+D
+
+#####1740#####
+B
+
+#####1741#####
+B
+
+#####1742#####
+D) Elevation of Privilege
+
+#####1743#####
+C) Architecture and Design
+
+#####1744#####
+B
+
+#####1745#####
+D
+
+#####1746#####
+C
+
+#####1747#####
+B) Operation
+
+#####1748#####
+B
+
+#####1749#####
+B
+
+#####1750#####
+B
+
+#####1751#####
+B) Testing
+
+#####1752#####
+B
+
+#####1753#####
+A) Architecture and Design
+
+#####1754#####
+C) Very High
+
+#####1755#####
+C) Bypass Protection Mechanism
+
+#####1756#####
+D
+
+#####1757#####
+A)
+
+#####1758#####
+B
+
+#####1759#####
+B
+
+#####1760#####
+A) Remote Code Execution
+
+**Answer:** A
+
+#####1761#####
+C
+
+#####1762#####
+The correct answer is:
+
+B) CWE-290
+
+#####1763#####
+B
+
+#####1764#####
+B) Maintenance
+
+#####1765#####
+D
+
+#####1766#####
+B) Information Disclosure
+
+**Answer:** B
+
+#####1767#####
+C
+
+#####1768#####
+C) Implementing firewall rules
+
+#####1769#####
+B
+
+#####1770#####
+B
+
+#####1771#####
+B
+
+#####1772#####
+B
+
+#####1773#####
+B) Privilege escalation
+
+#####1774#####
+The correct answer is:
+
+C) Architecture and Design
+
+D
+
+#####1775#####
+C
+
+#####1776#####
+C) Confidentiality Breach
+
+#####1777#####
+B) Code Execution
+
+#####1778#####
+A) Authentication Failure
+
+#####1779#####
+C) Input validation
+
+#####1780#####
+A) Unauthorized execution of privileged code
+
+#####1781#####
+C) Ensure access control checks are related to business logic
+
+**Answer:** C
+
+#####1782#####
+A) Read Memory
+
+#####1783#####
+B) Implementation
+
+#####1784#####
+B
+
+#####1785#####
+D) Denial of Service
+
+#####1786#####
+A) Use the 'transient' keyword for sensitive fields. 
+
+B
+
+#####1787#####
+B
+
+#####1788#####
+A) Reduce security posture
+
+**Answer:** A
+
+#####1789#####
+D
+
+#####1790#####
+B) CWE-146
+
+#####1791#####
+B
+
+#####1792#####
+B
+
+#####1793#####
+B
+
+#####1794#####
+B
+
+#####1795#####
+B
+
+#####1796#####
+A) Leakage of sensitive information
+
+#####1797#####
+C
+
+#####1798#####
+B
+
+#####1799#####
+B
+
+#####1800#####
+C)
+
+#####1801#####
+B
+
+#####1802#####
+D) Integrity
+
+#####1803#####
+B
+
+#####1804#####
+C) Architecture and Design
+
+#####1805#####
+B
+
+#####1806#####
+B) CAPEC-76
+
+#####1807#####
+B
+
+#####1808#####
+D
+
+#####1809#####
+B
+
+#####1810#####
+C) Input validation
+
+#####1811#####
+D
+
+#####1812#####
+D
+
+#####1813#####
+B
+
+#####1814#####
+A) Gain privileges
+
+#####1815#####
+B
+
+#####1816#####
+A) Architecture and Design
+
+#####1817#####
+B
+
+#####1818#####
+A) Unix-based systems
+
+#####1819#####
+A) Exposing sensitive system information
+
+**Answer:** A
+
+#####1820#####
+B
+
+#####1821#####
+B
+
+#####1822#####
+B
+
+#####1823#####
+B
+
+#####1824#####
+D
+
+#####1825#####
+B) Denial of Service (DoS) - Resource Consumption (Other)
+
+#####1826#####
+C
+
+#####1827#####
+C) System Configuration
+
+#####1828#####
+B
+
+#####1829#####
+C) Increased risk of cracking attacks
+
+D
+
+#####1830#####
+D
+
+#####1831#####
+B
+
+#####1832#####
+B
+
+#####1833#####
+A) Input Sanitization
+
+#####1834#####
+B
+
+#####1835#####
+C) Incorporating a cryptographic hash
+
+#####1836#####
+B
+
+#####1837#####
+C) Execute Unauthorized Code or Commands
+
+#####1838#####
+C
+
+#####1839#####
+D
+
+#####1840#####
+B
+
+#####1841#####
+C) Confidentiality and Access Control. 
+
+**Answer:** C
+
+#####1842#####
+C) Unauthorized Code Execution
+
+#####1843#####
+D
+
+#####1844#####
+A) Input Validation
+
+#####1845#####
+D
+
+#####1846#####
+B
+
+#####1847#####
+B
+
+#####1848#####
+A) Execute unauthorized code or commands
+
+**Answer:** A
+
+#####1849#####
+D
+
+#####1850#####
+A
+
+#####1851#####
+B) Information Disclosure
+
+#####1852#####
+C)
+
+#####1853#####
+A) Input Sanitization
+
+#####1854#####
+A) Gain extended user privileges or assume another identity
+
+**Answer:** A
+
+#####1855#####
+A
+
+#####1856#####
+B
+
+#####1857#####
+A) Unauthorized Data Exfiltration
+
+#####1858#####
+D
+
+#####1859#####
+A
+
+#####1860#####
+C) Improper Input Validation
+
+#####1861#####
+D
+
+#####1862#####
+B
+
+#####1863#####
+C) Operation
+
+#####1864#####
+A) Using volatile keyword
+
+#####1865#####
+C) Software buffer overflows
+
+**Answer:** C
+
+#####1866#####
+C
+
+#####1867#####
+B
+
+#####1868#####
+A) The product uses outdated cryptographic algorithms.
+
+**Answer:** A
+
+#####1869#####
+B
+
+#####1870#####
+B
+
+#####1871#####
+A) Denial of Service
+
+**Answer:** A
+
+#####1872#####
+B
+
+#####1873#####
+B
+
+#####1874#####
+C) Read confidential data
+
+#####1875#####
+D
+
+#####1876#####
+A) To execute arbitrary code
+
+#####1877#####
+The correct answer is:
+
+A) CWE-250
+
+#####1878#####
+C
+
+#####1879#####
+A) Unauthorized read of files
+
+#####1880#####
+B
+
+#####1881#####
+A) DoS: Resource Consumption (Network Bandwidth)
+
+#####1882#####
+D
+
+#####1883#####
+A) Control resource access based on user roles
+
+#####1884#####
+A) Integrity
+
+#####1885#####
+B
+
+#####1886#####
+D
+
+#####1887#####
+B
+
+#####1888#####
+B
+
+#####1889#####
+B
+
+#####1890#####
+B
+
+#####1891#####
+A) Modification of data
+
+**Answer:** A
+
+#####1892#####
+D
+
+#####1893#####
+B
+
+#####1894#####
+C
+
+#####1895#####
+B
+
+#####1896#####
+C) Data Exfiltration
+
+D
+
+#####1897#####
+A)
+
+#####1898#####
+B
+
+#####1899#####
+A) Data leakage
+
+#####1900#####
+C
+
+#####1901#####
+A) Unauthorized data read
+
+#####1902#####
+C
+
+#####1903#####
+B
+
+#####1904#####
+B
+
+#####1905#####
+A) Unauthorized access to sensitive data
+
+#####1906#####
+C) Architecture and Design
+
+#####1907#####
+B
+
+#####1908#####
+B) Implementation
+
+#####1909#####
+B) Maintenance
+
+#####1910#####
+B) Unauthorized Data Access
+
+#####1911#####
+B) CWE-1264
+
+#####1912#####
+A) Input Validation
+
+#####1913#####
+B
+
+#####1914#####
+A) Architecture and Design
+
+#####1915#####
+B
+
+#####1916#####
+B
+
+#####1917#####
+D
+
+#####1918#####
+C
+
+#####1919#####
+B
+
+#####1920#####
+B
+
+#####1921#####
+C
+
+#####1922#####
+C) Increased security risks
+
+#####1923#####
+D
+
+#####1924#####
+A) Memory leaks leading to system slowdown
+
+#####1925#####
+B) Python
+
+#####1926#####
+B
+
+#####1927#####
+C) Confidentiality
+
+#####1928#####
+D
+
+#####1929#####
+The correct answer is: C
+
+#####1930#####
+C
+
+#####1931#####
+B
+
+#####1932#####
+C
+
+#####1933#####
+C
+
+#####1934#####
+B
+
+#####1935#####
+C
+
+#####1936#####
+A)
+
+#####1937#####
+B) Configuration management
+
+#####1938#####
+B
+
+#####1939#####
+The correct answer is:
+
+C) Access Control
+
+#####1940#####
+The correct answer is:
+
+B) CWE-1222
+
+#####1941#####
+D
+
+#####1942#####
+B
+
+#####1943#####
+B
+
+#####1944#####
+A) Using server-side scripting
+
+#####1945#####
+D
+
+#####1946#####
+C
+
+#####1947#####
+A) Data Breach
+
+#####1948#####
+B
+
+#####1949#####
+B) Testing
+
+#####1950#####
+A) Architecture and Design
+
+#####1951#####
+B
+
+#####1952#####
+B
+
+#####1953#####
+B
+
+#####1954#####
+B
+
+#####1955#####
+B
+
+#####1956#####
+C
+
+#####1957#####
+B
+
+#####1958#####
+B
+
+#####1959#####
+C) Quality Degradation
+
+#####1960#####
+C) Architecture and Design
+
+#####1961#####
+C
+
+#####1962#####
+B
+
+#####1963#####
+B
+
+#####1964#####
+B
+
+#####1965#####
+B) Breach of Confidentiality
+
+#####1966#####
+C
+
+#####1967#####
+C
+
+#####1968#####
+B
+
+#####1969#####
+B
+
+#####1970#####
+D
+
+#####1971#####
+B
+
+#####1972#####
+A) Unexpected State; Bypassed Protection Mechanism
+
+A
+
+#####1973#####
+A) It allows unauthorized modification of files and directories by manipulating file paths.
+
+**Answer:** A
+
+#####1974#####
+A) Information Disclosure
+
+#####1975#####
+A) Architecture and Design
+
+#####1976#####
+B
+
+#####1977#####
+B) Execute unauthorized code or commands
+
+#####1978#####
+D
+
+#####1979#####
+C) C and C++ 
+
+B
+
+#####1980#####
+B
+
+#####1981#####
+B) CWE-940
+
+#####1982#####
+The most appropriate strategy to mitigate CWE-82 during the implementation phase is:
+
+**Option C) Output Encoding**
+
+**Answer:** C
+
+#####1983#####
+C) C and C++
+
+#####1984#####
+A) Loss of data confidentiality
+
+#####1985#####
+A) Architecture and Design
+
+#####1986#####
+B
+
+#####1987#####
+B
+
+#####1988#####
+B
+
+#####1989#####
+B
+
+#####1990#####
+B
+
+#####1991#####
+B
+
+#####1992#####
+A) Privilege escalation
+
+#####1993#####
+B
+
+#####1994#####
+B
+
+#####1995#####
+A) Unauthorized access to confidential data
+
+#####1996#####
+B
+
+#####1997#####
+B
+
+#####1998#####
+A)
+
+#####1999#####
+C) Apply blinding or masking techniques
+
+D
+
+#####2000#####
+B
+
+#####2001#####
+A)
+
+#####2002#####
+B) Executing arbitrary code
+
+#####2003#####
+C
+
+#####2004#####
+B
+
+#####2005#####
+C
+
+#####2006#####
+B) Gain elevated privileges
+
+#####2007#####
+B) Unexpected state
+
+#####2008#####
+B
+
+#####2009#####
+The correct answer is:
+
+B) CWE-822
+
+#####2010#####
+C) Unexpected State
+
+#####2011#####
+B
+
+#####2012#####
+C
+
+#####2013#####
+B
+
+#####2014#####
+D
+
+#####2015#####
+C
+
+#####2016#####
+B
+
+#####2017#####
+B
+
+#####2018#####
+B) Information Disclosure
+
+#####2019#####
+B
+
+#####2020#####
+A) Turn off dangerous handlers during sensitive operations.
+
+**Answer:** A
+
+#####2021#####
+A) Read Memory
+
+#####2022#####
+A) Regularly updating the mobile OS
+
+**Answer:** A
+
+#####2023#####
+B
+
+#####2024#####
+A) Malfunctioning cryptographic operations
+
+**Answer:** A
+
+#####2025#####
+A) A device gaining unauthorized write access to main memory
+
+**Answer:** A
+
+#####2026#####
+D
+
+#####2027#####
+C) Gain Privileges or Assume Identity
+
+#####2028#####
+B
+
+#####2029#####
+A) Design
+
+#####2030#####
+B
+
+#####2031#####
+The correct answer is:
+
+A) CWE-89: SQL Injection
+
+**Answer:** A
+
+#####2032#####
+B
+
+#####2033#####
+B
+
+#####2034#####
+D
+
+#####2035#####
+C
+
+#####2036#####
+D
+
+#####2037#####
+C) Unexpected state and unintended logic execution
+
+D
+
+#####2038#####
+B
+
+#####2039#####
+B
+
+#####2040#####
+A) Planning
+
+#####2041#####
+B) Unauthorized Access
+
+#####2042#####
+C
+
+#####2043#####
+B
+
+#####2044#####
+B) Mac OS
+
+#####2045#####
+D
+
+#####2046#####
+B
+
+#####2047#####
+C)
+
+#####2048#####
+C
+
+#####2049#####
+A) Denial of Service (DoS) 
+
+**Answer:** A
+
+#####2050#####
+C)
+
+#####2051#####
+D
+
+#####2052#####
+B
+
+#####2053#####
+B
+
+#####2054#####
+B) Data Integrity
+
+#####2055#####
+B
+
+#####2056#####
+D
+
+#####2057#####
+B
+
+#####2058#####
+The correct answer is:
+
+A) CWE-94
+
+#####2059#####
+C) Exposing critical data or allowing data modification
+
+D
+
+#####2060#####
+D) Architecture and Design
+
+#####2061#####
+B
+
+#####2062#####
+A) Architecture and Design
+
+#####2063#####
+C) Padding Oracle Crypto Attack
+
+#####2064#####
+B) Confidentiality
+
+#####2065#####
+C
+
+#####2066#####
+B
+
+#####2067#####
+B
+
+#####2068#####
+The correct answer is:
+
+A) CWE-79: Improper Neutralization of Input During Web Page Generation
+
+B
+
+#####2069#####
+A) Patch installed applications as soon as new updates become available.
+
+**Answer:** A
+
+#####2070#####
+B
+
+#####2071#####
+B
+
+#####2072#####
+B
+
+#####2073#####
+B
+
+#####2074#####
+B
+
+#####2075#####
+B
+
+#####2076#####
+D
+
+#####2077#####
+D
+
+#####2078#####
+The recommended mitigation strategy for preventing CWE-473 type weaknesses during the implementation phase is:
+
+**Option A) Utilize data encryption for all variables**
+
+Therefore, the answer is:
+
+**A**
+
+#####2079#####
+C
+
+#####2080#####
+B
+
+#####2081#####
+B
+
+#####2082#####
+B
+
+#####2083#####
+B
+
+#####2084#####
+A)
+
+#####2085#####
+The correct answer is:
+
+A) CAPEC-21: Encryption Brute Forcing
+
+**Answer:** A
+
+#####2086#####
+B) Trigger Denial of Service (DoS)
+
+#####2087#####
+A
+
+#####2088#####
+B
+
+#####2089#####
+A) Ensure that protected and unprotected memory ranges are isolated and do not overlap.
+
+**Answer:** A
+
+#####2090#####
+C) Architecture and Design
+
+#####2091#####
+A)
+
+#####2092#####
+C
+
+#####2093#####
+C
+
+#####2094#####
+B) Build and Compilation
+
+#####2095#####
+B
+
+#####2096#####
+C) Denial of Service
+
+D
+
+#####2097#####
+D
+
+#####2098#####
+D
+
+#####2099#####
+B
+
+#####2100#####
+The correct answer is:
+
+A) CAPEC-CAPEC-640
+
+#####2101#####
+D
+
+#####2102#####
+B
+
+#####2103#####
+B
+
+#####2104#####
+B
+
+#####2105#####
+B
+
+#####2106#####
+D
+
+#####2107#####
+A) Java (High Prevalence)
+
+#####2108#####
+A) Modify Data and Hide Activities
+
+#####2109#####
+B
+
+#####2110#####
+C)
+
+#####2111#####
+B
+
+#####2112#####
+B
+
+#####2113#####
+B) Confidentiality
+
+#####2114#####
+B
+
+#####2115#####
+B
+
+#####2116#####
+A) Access control issues can occur
+
+#####2117#####
+C) Bypass of protection mechanisms
+
+#####2118#####
+B
+
+#####2119#####
+B
+
+#####2120#####
+C
+
+#####2121#####
+C
+
+#####2122#####
+A) Integer variable
+
+#####2123#####
+B
+
+#####2124#####
+A) Read Application Data
+
+#####2125#####
+C
+
+#####2126#####
+A) Using two-factor authentication. 
+
+**Answer:** A
+
+#####2127#####
+B
+
+#####2128#####
+B) Disabling of filters or access controls
+
+#####2129#####
+B
+
+#####2130#####
+D
+
+#####2131#####
+B
+
+#####2132#####
+C) Reading of application data by other applications
+
+**Answer:** C
+
+#####2133#####
+C
+
+#####2134#####
+D
+
+#####2135#####
+A
+
+#####2136#####
+A) Properly neutralizing "/../" sequences
+
+#####2137#####
+B
+
+#####2138#####
+A) Only log error messages on the server without exposing them to the client.
+
+**Answer:** A
+
+#####2139#####
+A
+
+#####2140#####
+A
+
+#####2141#####
+D
+
+#####2142#####
+C)
+
+#####2143#####
+A) Java
+
+#####2144#####
+C) Service unavailability through a DoS attack
+
+D
+
+#####2145#####
+A) Modification of Application Data
+
+#####2146#####
+B
+
+#####2147#####
+B
+
+#####2148#####
+B
+
+#####2149#####
+A) Design
+
+#####2150#####
+A) Read Data
+
+#####2151#####
+A) SQL Injection
+
+#####2152#####
+B
+
+#####2153#####
+B
+
+#####2154#####
+C)
+
+#####2155#####
+B
+
+#####2156#####
+The correct answer is:
+
+B
+
+#####2157#####
+B) Reading and modifying data unlawfully
+
+#####2158#####
+C) Architecture and Design
+
+B
+
+#####2159#####
+B
+
+#####2160#####
+C
+
+#####2161#####
+A) Java
+
+#####2162#####
+B
+
+#####2163#####
+A) Memory leaks
+
+#####2164#####
+C
+
+#####2165#####
+B) Exploiting software vulnerabilities within the operating system
+
+#####2166#####
+B
+
+#####2167#####
+B
+
+#####2168#####
+A) Architecture and Design
+
+#####2169#####
+B
+
+#####2170#####
+B
+
+#####2171#####
+C) Data Exfiltration
+
+#####2172#####
+A) It may lead to erroneous code execution and system crashes.
+
+A
+
+#####2173#####
+B
+
+#####2174#####
+A) To elevate privileges without detection
+
+**Answer:** A
+
+#####2175#####
+B
+
+#####2176#####
+B
+
+#####2177#####
+B
+
+#####2178#####
+A) Design
+
+#####2179#####
+C) Input Validation
+
+#####2180#####
+D
+
+#####2181#####
+B
+
+#####2182#####
+B
+
+#####2183#####
+C) DoS: Resource Consumption (CPU)
+
+#####2184#####
+C) Minimizing user input
+
+D
+
+#####2185#####
+B
+
+#####2186#####
+B
+
+#####2187#####
+C) Architecture and Design
+
+#####2188#####
+B
+
+#####2189#####
+D
+
+#####2190#####
+B
+
+#####2191#####
+C) Testing
+
+#####2192#####
+C
+
+#####2193#####
+C
+
+#####2194#####
+B
+
+#####2195#####
+B
+
+#####2196#####
+B) CWE-1256
+
+#####2197#####
+C) Privilege Escalation
+
+#####2198#####
+C
+
+#####2199#####
+B
+
+#####2200#####
+C) Bypass of authentication or privilege escalation
+
+#####2201#####
+B) Privilege Escalation
+
+#####2202#####
+B
+
+#####2203#####
+B
+
+#####2204#####
+D
+
+#####2205#####
+D
+
+#####2206#####
+The best mitigation strategy to combat the attack described in CAPEC-159 is:
+
+A) Restrict write access to non-critical configuration files.
+
+D
+
+#####2207#####
+B
+
+#####2208#####
+B) Availability
+
+#####2209#####
+B
+
+#####2210#####
+C
+
+#####2211#####
+C)
+
+#####2212#####
+D
+
+#####2213#####
+A) Design
+
+#####2214#####
+B
+
+#####2215#####
+B
+
+#####2216#####
+B
+
+#####2217#####
+B
+
+#####2218#####
+B) Data exfiltration
+
+#####2219#####
+B
+
+#####2220#####
+C) Information Disclosure
+
+#####2221#####
+C
+
+#####2222#####
+C
+
+#####2223#####
+A
+
+#####2224#####
+A) Denial of Service: Data Corruption
+
+A
+
+#####2225#####
+C
+
+#####2226#####
+D
+
+#####2227#####
+B
+
+#####2228#####
+B
+
+#####2229#####
+B
+
+#####2230#####
+B) Availability Issue
+
+#####2231#####
+The weakness identified by CWE-362 is "Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')". Among the given options, the language that often shows a prevalence of this weakness is:
+
+**Option A) Python**
+
+Therefore, the correct answer is:
+
+**A**
+
+#####2232#####
+C) Architecture and Design
+
+#####2233#####
+C
+
+#####2234#####
+B
+
+#####2235#####
+B
+
+#####2236#####
+A) Advanced
+
+#####2237#####
+B
+
+#####2238#####
+A) Increase susceptibility to attacks
+
+#####2239#####
+The correct answer is:
+
+B) CWE-494: Download of Code Without Integrity Check
+
+B
+
+#####2240#####
+C) Ensuring business logic-related access control checks
+
+#####2241#####
+B
+
+#####2242#####
+The recommended mitigation strategy in CWE-641 to prevent users from controlling resource names used on the server side is:
+
+C) Do not allow users to control names of resources used on the server side.
+
+D
+
+#####2243#####
+B
+
+#####2244#####
+B
+
+#####2245#####
+B
+
+#####2246#####
+B
+
+#####2247#####
+B
+
+#####2248#####
+C) Running services with least privilege
+
+#####2249#####
+C) Bypass Protection Mechanism
+
+#####2250#####
+B
+
+#####2251#####
+A) Padding Oracle Crypto Attack
+
+#####2252#####
+B
+
+#####2253#####
+C
+
+#####2254#####
+B) Python
+
+#####2255#####
+The correct answer is:
+
+B) CAPEC-582
+
+#####2256#####
+The correct answer is:
+
+C) Modifying client-side data
+
+#####2257#####
+B
+
+#####2258#####
+C
+
+#####2259#####
+A
+
+#####2260#####
+D) Read confidential data
+
+#####2261#####
+The correct answer is:
+
+A) CWE-263
+
+#####2262#####
+The best option that illustrates CWE-790 in a production environment is:
+
+**Option D) An application fails to validate the length of the input data, leading to a potential buffer overflow attack**
+
+D
+
+#####2263#####
+B
+
+#####2264#####
+C) Modify application data
+
+#####2265#####
+C) Output encoding
+
+#####2266#####
+B
+
+#####2267#####
+C) Integrity and Confidentiality
+
+#####2268#####
+B
+
+#####2269#####
+D
+
+#####2270#####
+B
+
+#####2271#####
+D
+
+#####2272#####
+B
+
+#####2273#####
+B
+
+#####2274#####
+C) Denial of Service (DoS)
+
+#####2275#####
+The best option is:
+
+B) CAPEC-56
+
+D
+
+#####2276#####
+B
+
+#####2277#####
+B
+
+#####2278#####
+The best option that exemplifies CWE-837 is:
+
+C) A user bypasses access controls by directly modifying URL parameters
+
+**Answer:** C
+
+#####2279#####
+B
+
+#####2280#####
+B
+
+#####2281#####
+D
+
+#####2282#####
+C
+
+#####2283#####
+A
+
+#####2284#####
+B
+
+#####2285#####
+A) Design
+
+#####2286#####
+B
+
+#####2287#####
+A)
+
+#####2288#####
+C) The criticality of privilege levels and features
+
+D
+
+#####2289#####
+C)
+
+#####2290#####
+C) System Downtime
+
+#####2291#####
+B
+
+#####2292#####
+A) CAPEC-105 (HTTP Request Splitting)
+
+#####2293#####
+B) Resource Limitation
+
+#####2294#####
+B) PYTHON
+
+#####2295#####
+C
+
+#####2296#####
+B
+
+#####2297#####
+A) Privilege Escalation
+
+A
+
+#####2298#####
+D
+
+#####2299#####
+C) Architecture and Design
+
+#####2300#####
+A) Conducting security code reviews
+
+**Answer:** A
+
+#####2301#####
+B
+
+#####2302#####
+A
+
+#####2303#####
+B
+
+#####2304#####
+A) Modification of data
+
+#####2305#####
+C)
+
+#####2306#####
+D) Unauthorized Access
+
+#####2307#####
+D) Architecture and Design
+
+#####2308#####
+B
+
+#####2309#####
+B
+
+#####2310#####
+C) Architecture and Design
+
+#####2311#####
+C
+
+#####2312#####
+B
+
+#####2313#####
+B
+
+#####2314#####
+C) Bypass Protection Mechanism
+
+#####2315#####
+B
+
+#####2316#####
+D
+
+#####2317#####
+B
+
+#####2318#####
+A) It can corrupt memory
+
+**Answer:** A
+
+#####2319#####
+D) Vulnerability to Buffer Overflow
+
+#####2320#####
+B
+
+#####2321#####
+B
+
+#####2322#####
+B
+
+#####2323#####
+A) Infected Memory (CAPEC-456)
+
+A
+
+#####2324#####
+C) Protect and encrypt sensitive information stored in the cache
+
+#####2325#####
+B
+
+#####2326#####
+B
+
+#####2327#####
+B
+
+#####2328#####
+B
+
+#####2329#####
+C
+
+#####2330#####
+B
+
+#####2331#####
+B
+
+#####2332#####
+B
+
+#####2333#####
+B)
+
+#####2334#####
+A
+
+#####2335#####
+A) Input sanitization
+
+#####2336#####
+C) DoS: Crash, Exit, or Restart
+
+**Answer:** C
+
+#####2337#####
+C
+
+#####2338#####
+The related attack pattern to CWE-181 that involves the use of alternate encoding techniques is:
+
+**Option C) CAPEC-242**
+
+D
+
+#####2339#####
+The correct answer is:
+
+C) A mechanism that implements encoding to neutralize all inputs
+
+C
+
+#####2340#####
+D
+
+#####2341#####
+B
+
+#####2342#####
+B
+
+#####2343#####
+B) System Integrity Compromise
+
+#####2344#####
+D
+
+#####2345#####
+C
+
+#####2346#####
+A) Bypassing authentication controls
+
+#####2347#####
+The primary technical impact of not properly neutralizing whitespace elements in the context of CWE-156 is:
+
+**Option A) Data Breach**
+
+**Answer:** A
+
+#####2348#####
+C)
+
+#####2349#####
+B
+
+#####2350#####
+A) Web browser cache
+
+#####2351#####
+C) Use multi-factor authentication for all tasks
+
+#####2352#####
+The best option is:
+
+C) Architecture and Design
+
+D
+
+#####2353#####
+The correct answer is:
+
+D) Calling free() on a pointer not allocated by malloc()
+
+**Answer:** D
+
+#####2354#####
+D) READ_CONTACTS
+
+#####2355#####
+B
+
+#####2356#####
+C
+
+#####2357#####
+C
+
+#####2358#####
+D
+
+#####2359#####
+B) Gain Unauthorized Access
+
+#####2360#####
+B
+
+#####2361#####
+B
+
+#####2362#####
+A) Implementation
+
+#####2363#####
+B
+
+#####2364#####
+B
+
+#####2365#####
+C) Cause unauthorized schema modifications
+
+#####2366#####
+A) Maintaining a Software Bill of Materials (SBOM)
+
+#####2367#####
+A) Availability
+
+#####2368#####
+B
+
+#####2369#####
+A) Enforcing two-factor authentication. 
+
+**Answer:** A
+
+#####2370#####
+C) Implementation
+
+#####2371#####
+C
+
+#####2372#####
+A) Use canonicalized data
+
+#####2373#####
+B
+
+#####2374#####
+C) Architecture and Design
+
+#####2375#####
+B
+
+#####2376#####
+D
+
+#####2377#####
+B) Architecture and Design
+
+#####2378#####
+A) Integrity violation due to unauthorized modifications
+
+**Answer:** A
+
+#####2379#####
+D
+
+#####2380#####
+B
+
+#####2381#####
+C
+
+#####2382#####
+The correct answer is:
+
+B) Exploit
+
+#####2383#####
+C) Input Validation
+
+#####2384#####
+C)
+
+#####2385#####
+D
+
+#####2386#####
+B
+
+#####2387#####
+A
+
+#####2388#####
+B) Python
+
+#####2389#####
+B
+
+#####2390#####
+B
+
+#####2391#####
+A) Perform denylist validation against potentially malicious inputs.
+
+B
+
+#####2392#####
+A)
+
+#####2393#####
+A) Read Memory; Modify Memory; Execute Unauthorized Code or Commands
+
+**Answer:** A
+
+#####2394#####
+B
+
+#####2395#####
+B
+
+#####2396#####
+B) Bypass of Access Control mechanism
+
+#####2397#####
+B
+
+#####2398#####
+A) Finding a zero-day vulnerability in the buffer
+
+**Answer:** A
+
+#####2399#####
+The primary cause of CWE-523 according to the modes of introduction is:
+
+**Option A) Errors in the implementation phase**
+
+Therefore, the answer is:
+
+**A**
+
+#####2400#####
+B) CWE-190
+
+#####2401#####
+B
+
+#####2402#####
+C) 
+
+**Explanation:** Using Static Analysis tools
+
+**Answer:** C
+
+#####2403#####
+C
+
+#####2404#####
+B
+
+#####2405#####
+A) Incorrectly assumes the size of the expanded parameter
+
+**Answer:** A
+
+#####2406#####
+B
+
+#####2407#####
+A) Use IP whitelisting to restrict access.
+
+**Answer:** A
+
+#####2408#####
+B
+
+#####2409#####
+B
+
+#####2410#####
+B
+
+#####2411#####
+A) To redirect legitimate traffic to a malicious server
+
+**Answer:** A
+
+#####2412#####
+B) Integrity
+
+#####2413#####
+B
+
+#####2414#####
+B) Denial of Service (DoS)
+
+#####2415#####
+B
+
+#####2416#####
+The best option to prevent the attack pattern described in CAPEC-549: Local Execution of Code is:
+
+C) Using intrusion detection systems
+
+D
+
+#####2417#####
+B
+
+#####2418#####
+B
+
+#####2419#####
+D
+
+#####2420#####
+B) StatusVerification
+
+#####2421#####
+A) Executing unauthorized commands
+
+#####2422#####
+C
+
+#####2423#####
+B) Padding Oracle Crypto Attack
+
+#####2424#####
+D
+
+#####2425#####
+B
+
+#####2426#####
+A) Confidentiality breach by reading data on the server
+
+**Answer:** A
+
+#####2427#####
+B
+
+#####2428#####
+B
+
+#####2429#####
+A) Java
+
+#####2430#####
+D
+
+#####2431#####
+A) Denial of Service (DoS)
+
+#####2432#####
+B
+
+#####2433#####
+A) Python, Ruby, and Go.
+
+B
+
+#####2434#####
+B) Cross-Site Scripting (XSS)
+
+#####2435#####
+The primary technical impact described for CWE-1193 is:
+
+B) Allowing untrusted components to control transactions on the HW bus.
+
+D
+
+#####2436#####
+D
+
+#####2437#####
+C
+
+#####2438#####
+C)
+
+#####2439#####
+A) Architecture and Design
+
+#####2440#####
+B
+
+#####2441#####
+C) Confidentiality
+
+#####2442#####
+B) Availability
+
+#####2443#####
+B) Denial of service
+
+**Answer:** B
+
+#####2444#####
+B
+
+#####2445#####
+The correct answer is:
+
+A) DoS: Resource Consumption
+
+B
+
+#####2446#####
+D
+
+#####2447#####
+A)
+
+#####2448#####
+C
+
+#####2449#####
+C
+
+#####2450#####
+D
+
+#####2451#####
+C) Gain Privileges or Assume Identity.
+
+#####2452#####
+B) Unauthorized Data Manipulation
+
+#####2453#####
+B
+
+#####2454#####
+C)
+
+#####2455#####
+B
+
+#####2456#####
+B
+
+#####2457#####
+B
+
+#####2458#####
+B
+
+#####2459#####
+D
+
+#####2460#####
+B
+
+#####2461#####
+C
+
+#####2462#####
+C
+
+#####2463#####
+B
+
+#####2464#####
+B)
+
+#####2465#####
+B
+
+#####2466#####
+D
+
+#####2467#####
+D
+
+#####2468#####
+C
+
+#####2469#####
+B
+
+#####2470#####
+B) CAPEC-263
+
+#####2471#####
+C
+
+#####2472#####
+A) Authentication Bypass by Spoofing
+
+**Answer:** A
+
+#####2473#####
+A) Memory Hardware
+
+#####2474#####
+A) Architecture and Design
+
+#####2475#####
+B) Implementation
+
+#####2476#####
+B
+
+#####2477#####
+B) Swift
+
+#####2478#####
+B
+
+#####2479#####
+B
+
+#####2480#####
+B) Implementation
+
+#####2481#####
+B
+
+#####2482#####
+D
+
+#####2483#####
+A) Execute Unauthorized Code or Commands
+
+#####2484#####
+C) Buffer overflow
+
+#####2485#####
+The correct answer is:
+
+B) They must have advanced cyber capabilities.
+
+B
+
+#####2486#####
+A) Ensure the application doesn't process unsigned data as if it's signed.
+
+A
+
+#####2487#####
+B
+
+#####2488#####
+C)
+
+#####2489#####
+B
+
+#####2490#####
+C) Knowledge of the target system's vulnerabilities
+
+D
+
+#####2491#####
+D
+
+#####2492#####
+B
+
+#####2493#####
+B
+
+#####2494#####
+C
+
+#####2495#####
+B) Testing
+
+#####2496#####
+B
+
+#####2497#####
+D
+
+#####2498#####
+A) Exploiting software bugs in the browser directly
+
+**Answer:** A
+
+#####2499#####
+B
+
+#####2500#####
+B
+
