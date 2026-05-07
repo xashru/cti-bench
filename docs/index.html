@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence | Project Page</title>
+  <meta name="description" content="CTIBench is a benchmark for evaluating large language models on practical Cyber Threat Intelligence tasks.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="static/index.css">
+</head>
+<body>
+  <section class="hero paperpage-hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="paperpage-hero-header">
+          <h1 class="title is-1 publication-title">CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence</h1>
+          <div class="publication-authors">
+            <span class="author-block">Md Tanvirul Alam</span><span class="author-sep">·</span>
+            <span class="author-block">Dipkamal Bhusal</span><span class="author-sep">·</span>
+            <span class="author-block">Le Nguyen</span><span class="author-sep">·</span>
+            <span class="author-block">Nidhi Rastogi</span>
+          </div>
+          <div class="paperpage-affiliations">Rochester Institute of Technology</div>
+          <p class="paperpage-eyebrow">NeurIPS 2024 Datasets and Benchmarks Spotlight</p>
+
+          <div class="publication-links">
+            <a href="assets/pdfs/ctibench.pdf" class="button is-normal is-rounded is-dark">
+              <span class="icon"><i class="fas fa-file-pdf"></i></span>
+              <span>Paper</span>
+            </a>
+            <a href="https://arxiv.org/abs/2406.07599" class="button is-normal is-rounded is-dark">
+              <span class="icon"><i class="fas fa-link"></i></span>
+              <span>arXiv</span>
+            </a>
+            <a href="https://github.com/maveryn/cti-bench" class="button is-normal is-rounded is-dark">
+              <span class="icon"><i class="fab fa-github"></i></span>
+              <span>Code</span>
+            </a>
+            <a href="https://huggingface.co/datasets/AI4Sec/cti-bench" class="button is-normal is-rounded is-dark">
+              <span class="icon"><i class="fas fa-database"></i></span>
+              <span>Dataset</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="paperpage-showcase-wrap">
+          <div class="paperpage-teaser-frame">
+            <img src="assets/figures/ctibench-overview.png" alt="Overview of the CTIBench task suite">
+          </div>
+        </div>
+
+        <div class="paperpage-summary-wrap">
+          <p class="paperpage-summary">
+            CTIBench evaluates whether language models can reason over practical cyber threat intelligence tasks, from CTI knowledge and vulnerability analysis to ATT&amp;CK technique extraction and threat actor attribution.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section paperpage-abstract">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Cyber threat intelligence (CTI) is crucial in today's cybersecurity landscape, providing essential insights to understand and mitigate the ever-evolving cyber threats. The recent rise of Large Language Models (LLMs) have shown potential in this domain, but concerns about their reliability, accuracy, and hallucinations persist. CTIBench introduces a suite of benchmark datasets focused on evaluating LLM performance in CTI applications, providing insight into their strengths and weaknesses in applied cyber-threat analysis.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Highlights</h2>
+      <div class="paperpage-highlight-grid">
+        <article class="paperpage-card">
+          <h3>5 Task Families</h3>
+          <p>Knowledge, vulnerability mapping, severity prediction, ATT&amp;CK extraction, and threat attribution.</p>
+        </article>
+        <article class="paperpage-card">
+          <h3>4,610 Examples</h3>
+          <p>Released benchmark examples plus a 2021 comparison split for root-cause mapping.</p>
+        </article>
+        <article class="paperpage-card">
+          <h3>Practical CTI</h3>
+          <p>Tasks are grounded in NVD, CWE, CVSS, MITRE ATT&amp;CK, and public threat reports.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section paperpage-story">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Benchmark Tasks</h2>
+      <div class="paperpage-task-grid paperpage-balanced-grid paperpage-balanced-grid--5">
+        <article class="paperpage-card">
+          <h3>CTI-MCQ</h3>
+          <p>Multiple-choice questions over CTI knowledge, standards, mitigations, attack patterns, and weaknesses.</p>
+        </article>
+        <article class="paperpage-card">
+          <h3>CTI-RCM</h3>
+          <p>Map CVE descriptions to Common Weakness Enumeration root causes.</p>
+        </article>
+        <article class="paperpage-card">
+          <h3>CTI-VSP</h3>
+          <p>Predict CVSS v3.1 vector strings from vulnerability descriptions.</p>
+        </article>
+        <article class="paperpage-card">
+          <h3>CTI-ATE</h3>
+          <p>Extract MITRE ATT&amp;CK Enterprise technique IDs from threat descriptions.</p>
+        </article>
+        <article class="paperpage-card">
+          <h3>CTI-TAA</h3>
+          <p>Attribute anonymized threat reports to known threat actors or plausible related groups.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section paperpage-story">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Results</h2>
+      <div class="paperpage-story-stack">
+        <div class="paperpage-result-grid">
+          <article class="paperpage-card">
+            <span class="result-value">71.0</span>
+            <p>Best CTI-MCQ accuracy from ChatGPT-4.</p>
+          </article>
+          <article class="paperpage-card">
+            <span class="result-value">72.0</span>
+            <p>Best CTI-RCM accuracy from ChatGPT-4.</p>
+          </article>
+          <article class="paperpage-card">
+            <span class="result-value">1.09</span>
+            <p>Best CTI-VSP MAD from Gemini-1.5, where lower is better.</p>
+          </article>
+          <article class="paperpage-card">
+            <span class="result-value">86</span>
+            <p>Best plausible CTI-TAA accuracy from ChatGPT-4.</p>
+          </article>
+        </div>
+
+        <div class="paperpage-table-wrap">
+          <table class="paperpage-results-table">
+            <thead>
+              <tr>
+                <th>Model</th>
+                <th>CTI-MCQ Acc</th>
+                <th>CTI-RCM Acc</th>
+                <th>CTI-VSP MAD</th>
+                <th>CTI-ATE Macro-F1</th>
+                <th>TAA Correct</th>
+                <th>TAA Plausible</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>ChatGPT-4</td>
+                <td><strong>71.0</strong></td>
+                <td><strong>72.0</strong></td>
+                <td>1.31</td>
+                <td><strong>0.6388</strong></td>
+                <td><strong>52</strong></td>
+                <td><strong>86</strong></td>
+              </tr>
+              <tr>
+                <td>ChatGPT-3.5</td>
+                <td>54.1</td>
+                <td>67.2</td>
+                <td>1.57</td>
+                <td>0.3108</td>
+                <td>44</td>
+                <td>62</td>
+              </tr>
+              <tr>
+                <td>Gemini-1.5</td>
+                <td>65.4</td>
+                <td>66.6</td>
+                <td><strong>1.09</strong></td>
+                <td>0.4612</td>
+                <td>38</td>
+                <td>74</td>
+              </tr>
+              <tr>
+                <td>LLAMA3-70B</td>
+                <td>65.7</td>
+                <td>65.9</td>
+                <td>1.83</td>
+                <td>0.4720</td>
+                <td><strong>52</strong></td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>LLAMA3-8B</td>
+                <td>61.3</td>
+                <td>44.7</td>
+                <td>1.91</td>
+                <td>0.1562</td>
+                <td>28</td>
+                <td>36</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section paperpage-story">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Analysis</h2>
+      <div class="paperpage-story-stack">
+        <div class="paperpage-story-text">
+          <p>
+            CTIBench exposes structured weaknesses across CTI tasks. Larger models make correlated errors on multiple-choice CTI questions, performance varies between ATT&amp;CK and CWE knowledge, and vulnerability severity prediction remains difficult for CVSS metrics such as privileges, scope, confidentiality, and integrity.
+          </p>
+        </div>
+        <div class="paperpage-visual-grid paperpage-balanced-grid paperpage-balanced-grid--5">
+          <div class="paperpage-gallery-card">
+            <img src="assets/figures/error-correlation.png" alt="Error correlation for CTI-MCQ">
+          </div>
+          <div class="paperpage-gallery-card">
+            <img src="assets/figures/error-frequency.png" alt="Error frequency for CTI-MCQ">
+          </div>
+          <div class="paperpage-gallery-card">
+            <img src="assets/figures/mitre-cwe.png" alt="Accuracy on MITRE ATT&amp;CK and CWE questions">
+          </div>
+          <div class="paperpage-gallery-card">
+            <img src="assets/figures/cwe-wordlen-acc.png" alt="CTI-RCM accuracy versus description length">
+          </div>
+          <div class="paperpage-gallery-card">
+            <img src="assets/figures/cvss-metric.png" alt="CVSS base metric accuracy">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <div class="paperpage-bibtex-header">
+        <h2 class="title is-3">BibTeX</h2>
+        <button class="button is-light is-small" onclick="copyBibTeX()">
+          <span class="icon"><i class="fas fa-copy"></i></span>
+          <span data-copy-label>Copy</span>
+        </button>
+      </div>
+      <pre id="bibtex-code"><code>@article{alam2024ctibench,
+  title={Ctibench: A benchmark for evaluating llms in cyber threat intelligence},
+  author={Alam, Md Tanvirul and Bhusal, Dipkamal and Nguyen, Le and Rastogi, Nidhi},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={50805--50825},
+  year={2024}
+}</code></pre>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="content has-text-centered">
+        <p>Built using the paperpage academic-page style.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="static/index.js"></script>
+</body>
+</html>
